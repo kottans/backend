@@ -2,7 +2,6 @@
 [![Ideas and useful links][icon-ideas]][ideas]
 [![Awesome][icon-awesome]][awesome]
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[![Telegram][icon-chat]][chat]
 
 # Backend-End Course. Contents
 
@@ -53,4 +52,3 @@ TBD
 [license]: https://github.com/Kottans/web/blob/master/LICENSE.md
 [awesome]: https://github.com/sindresorhus/awesome
 [ideas]: https://docs.google.com/spreadsheets/d/1bZJhYjK3VHOS2HmQb2Fs4aHfEBt8mp1F09j9nEEDaqE/edit#gid=818017811
-[chat]: https://t.me/joinchat/CX8EF1JmLm9IM6J6oy2U7Q

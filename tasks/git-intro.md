@@ -1,7 +1,6 @@
 [![MIT Licensed][icon-mit]][license]
 [![Awesome][icon-awesome]][awesome]
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[![Telegram][icon-chat]][chat]
 
 # Git and GitHub
 
@@ -60,5 +59,4 @@ When you finish this task you can start the next one.
 [icon-awesome]: https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg
 [license]: https://github.com/Kottans/web/blob/master/LICENSE.md
 [awesome]: https://github.com/sindresorhus/awesome
-[chat]: https://t.me/joinchat/CX8EF1JmLm9IM6J6oy2U7Q
 [mock-repo]: https://github.com/Kottans/mock-repo
