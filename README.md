@@ -67,8 +67,8 @@ If you have any questions you can ask us in one of our chats.
 ![Node.js][node]![Golang][go]
 
 - This course contains _general_, _nodejs_ and _golang_ tasks. You _don't need to do all of them_, just pick either nodejs or golang tasks depending on course you've enrolled.
-- Nodejs-only tasks will be marked with prefix :vertical_traffic_light:_Node.js_:vertical_traffic_light:
-- Golang-only tasks will be marked with prefix :vertical_traffic_light:_Golang_:vertical_traffic_light:
+- Nodejs-only tasks will be marked with prefix :vertical_traffic_light:__Node.js__:vertical_traffic_light:
+- Golang-only tasks will be marked with prefix :vertical_traffic_light:__Golang__:vertical_traffic_light:
 
 ### Oparation System Disclaimer
 

@@ -5,19 +5,12 @@
 # Program in Memory
 
 1. [Anatomy of a Program in Memory](https://manybutfinite.com/post/anatomy-of-a-program-in-memory/)
-
 1. Discover memory mapping on real example:
    - Linux systems has pseudo-files system called `proc` which can be using to get extended info about running processes.
    - Use `man proc` shell command to get more info about `proc` or read the same info [here](http://man7.org/linux/man-pages/man5/proc.5.html)
    - If you're Mac user consider to use `vmmap` or `vmmap64` to discover process memory mapping. More info [here](https://developer.apple.com/library/archive/documentation/Performance/Conceptual/ManagingMemory/Articles/VMPages.html#//apple_ref/doc/uid/20001985-97196-TPXREF127).
-
-![Node.js][node]
-
-1. :vertical_traffic_light:_Node.js_:vertical_traffic_light: [Understanding Garbage Collection and Hunting Memory Leaks in Node.js](https://blog.codeship.com/understanding-garbage-collection-in-node-js/)
-
-![Golang][go]
-
-1. :vertical_traffic_light:_Golang_:vertical_traffic_light: [Go Memory Management](https://povilasv.me/go-memory-management/)
+1. :vertical_traffic_light:__Node.js__:vertical_traffic_light: [Understanding Garbage Collection and Hunting Memory Leaks in Node.js](https://blog.codeship.com/understanding-garbage-collection-in-node-js/)
+1. :vertical_traffic_light:__Golang__:vertical_traffic_light: [Go Memory Management](https://povilasv.me/go-memory-management/)
 
 If you honestly finished all the previous steps then go ahead and share it with
 others — post a message to [course channel][chat] with the link to your repo
@@ -83,13 +76,10 @@ When you finish this task you can proceed to the next one.
 
 ## Extra materials
 
-- :vertical_traffic_light:_Node.js_:vertical_traffic_light: [Accessing Node.js Memory Using V8 Inspector & Chrome Dev Tools](https://marmelab.com/blog/2018/04/03/how-to-track-and-fix-memory-leak-with-nodejs.html#accessing-nodejs-memory-using-v8-inspector--chrome-dev-tools)
-- :vertical_traffic_light:_Node.js_:vertical_traffic_light: [Node.js Garbage Collection Explained](https://blog.risingstack.com/node-js-at-scale-node-js-garbage-collection/)
-
-![Golang][go]
-
-- :vertical_traffic_light:_Golang_:vertical_traffic_light: [Debugging: Simple Memory Leaks in Go](https://medium.com/dm03514-tech-blog/sre-debugging-simple-memory-leaks-in-go-e0a9e6d63d4d)
-- :vertical_traffic_light:_Golang_:vertical_traffic_light: [Avoiding Memory Leak in Golang API](https://hackernoon.com/avoiding-memory-leak-in-golang-api-1843ef45fca8)
+- :vertical_traffic_light:__Node.js__:vertical_traffic_light: [Accessing Node.js Memory Using V8 Inspector & Chrome Dev Tools](https://marmelab.com/blog/2018/04/03/how-to-track-and-fix-memory-leak-with-nodejs.html#accessing-nodejs-memory-using-v8-inspector--chrome-dev-tools)
+- :vertical_traffic_light:__Node.js__:vertical_traffic_light: [Node.js Garbage Collection Explained](https://blog.risingstack.com/node-js-at-scale-node-js-garbage-collection/)
+- :vertical_traffic_light:__Golang__:vertical_traffic_light: [Debugging: Simple Memory Leaks in Go](https://medium.com/dm03514-tech-blog/sre-debugging-simple-memory-leaks-in-go-e0a9e6d63d4d)
+- :vertical_traffic_light:__Golang__:vertical_traffic_light: [Avoiding Memory Leak in Golang API](https://hackernoon.com/avoiding-memory-leak-in-golang-api-1843ef45fca8)
 
 ## Done?
 
