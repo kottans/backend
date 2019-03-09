@@ -104,5 +104,5 @@ When you finish this task you can proceed to the next one.
 [icon-awesome]: https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg
 [license]: https://github.com/Kottans/web/blob/master/LICENSE.md
 [awesome]: https://github.com/sindresorhus/awesome#front-end-development
-[node]: ./img/node.png
-[go]: ./img/go.png
+[node]: ../img/node.png
+[go]: ../img/go.png
