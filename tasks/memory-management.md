@@ -13,11 +13,11 @@
 
 ![Node.js][node]
 
-1. [Understanding Garbage Collection and Hunting Memory Leaks in Node.js](https://blog.codeship.com/understanding-garbage-collection-in-node-js/)
+1. :vertical_traffic_light:_Node.js_:vertical_traffic_light: [Understanding Garbage Collection and Hunting Memory Leaks in Node.js](https://blog.codeship.com/understanding-garbage-collection-in-node-js/)
 
 ![Golang][go]
 
-1. [Go Memory Management](https://povilasv.me/go-memory-management/)
+1. :vertical_traffic_light:_Golang_:vertical_traffic_light: [Go Memory Management](https://povilasv.me/go-memory-management/)
 
 If you honestly finished all the previous steps then go ahead and share it with
 others — post a message to [course channel][chat] with the link to your repo
@@ -83,15 +83,13 @@ When you finish this task you can proceed to the next one.
 
 ## Extra materials
 
-![Node.js][node]
-
-- [Accessing Node.js Memory Using V8 Inspector & Chrome Dev Tools](https://marmelab.com/blog/2018/04/03/how-to-track-and-fix-memory-leak-with-nodejs.html#accessing-nodejs-memory-using-v8-inspector--chrome-dev-tools)
-- [Node.js Garbage Collection Explained](https://blog.risingstack.com/node-js-at-scale-node-js-garbage-collection/)
+- :vertical_traffic_light:_Node.js_:vertical_traffic_light: [Accessing Node.js Memory Using V8 Inspector & Chrome Dev Tools](https://marmelab.com/blog/2018/04/03/how-to-track-and-fix-memory-leak-with-nodejs.html#accessing-nodejs-memory-using-v8-inspector--chrome-dev-tools)
+- :vertical_traffic_light:_Node.js_:vertical_traffic_light: [Node.js Garbage Collection Explained](https://blog.risingstack.com/node-js-at-scale-node-js-garbage-collection/)
 
 ![Golang][go]
 
-- [Debugging: Simple Memory Leaks in Go](https://medium.com/dm03514-tech-blog/sre-debugging-simple-memory-leaks-in-go-e0a9e6d63d4d)
-- [Avoiding Memory Leak in Golang API](https://hackernoon.com/avoiding-memory-leak-in-golang-api-1843ef45fca8)
+- :vertical_traffic_light:_Golang_:vertical_traffic_light: [Debugging: Simple Memory Leaks in Go](https://medium.com/dm03514-tech-blog/sre-debugging-simple-memory-leaks-in-go-e0a9e6d63d4d)
+- :vertical_traffic_light:_Golang_:vertical_traffic_light: [Avoiding Memory Leak in Golang API](https://hackernoon.com/avoiding-memory-leak-in-golang-api-1843ef45fca8)
 
 ## Done?
 
