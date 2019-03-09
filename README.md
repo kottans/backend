@@ -66,13 +66,13 @@ If you have any questions you can ask us in one of our chats.
 
 ![Node.js][node]![Golang][go]
 
-- This course contains _general_, _nodejs_ and _golang_ tasks. You _don't need to do all of them_, just pick either nodejs or golang tasks depending on course you've enrolled.
+- This course contains __general__, __nodejs__ and __golang__ tasks. You __don't need to do all of them__, just pick either nodejs or golang tasks depending on course you've enrolled.
 - Nodejs-only tasks will be marked with prefix :vertical_traffic_light:__Node.js__:vertical_traffic_light:
 - Golang-only tasks will be marked with prefix :vertical_traffic_light:__Golang__:vertical_traffic_light:
 
 ### Oparation System Disclaimer
 
-- This course assumes that you have up and running UNIX-based OS on your machine. If you're windows user consider to use (VM)[https://www.virtualbox.org/wiki/Downloads] for UNIX-system related tasks.
+- This course assumes that you have up and running UNIX-based OS on your machine. If you're windows user consider to use [VM](https://www.virtualbox.org/wiki/Downloads) for UNIX-system related tasks.
 
 ### Chats
 

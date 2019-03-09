@@ -6,7 +6,7 @@
 
 1. [Anatomy of a Program in Memory](https://manybutfinite.com/post/anatomy-of-a-program-in-memory/)
 1. Discover memory mapping on real example:
-   - Linux systems has pseudo-files system called `proc` which can be using to get extended info about running processes.
+   - Linux systems has pseudo-files system called `proc` which can be used to get extended info about running processes.
    - Use `man proc` shell command to get more info about `proc` or read the same info [here](http://man7.org/linux/man-pages/man5/proc.5.html)
    - If you're Mac user consider to use `vmmap` or `vmmap64` to discover process memory mapping. More info [here](https://developer.apple.com/library/archive/documentation/Performance/Conceptual/ManagingMemory/Articles/VMPages.html#//apple_ref/doc/uid/20001985-97196-TPXREF127).
 1. :vertical_traffic_light:__Node.js__:vertical_traffic_light: [Understanding Garbage Collection and Hunting Memory Leaks in Node.js](https://blog.codeship.com/understanding-garbage-collection-in-node-js/)
@@ -49,7 +49,7 @@ When complete do the following:
    7f558cb14000-7f558cd13000 ---p 00003000 08:08 1577849 /lib/x86_64-linux-gnu/libdl-2.27.so
    7f558cf3f000-7f558cf66000 r-xp 00000000 08:08 1577798 /lib/x86_64-linux-gnu/ld-2.27.so
    7f558d148000-7f558d14d000 rw-p 00000000 00:00 0
-   7f558d15f000-7f558d166000 r--s 00000000 08:08 4196801 /usr/lib/x86_64-linux-gnu/gconv/gconv-modules.cache
+   7f558d15f000-7f558d166000 r--s 00000000 08:08 4196801 /usr/lib/x86_64-linux-gnu/gconv/modules.cache
    7f558d166000-7f558d167000 r--p 00027000 08:08 1577798 /lib/x86_64-linux-gnu/ld-2.27.so
    7f558d167000-7f558d168000 rw-p 00028000 08:08 1577798 /lib/x86_64-linux-gnu/ld-2.27.so
    7f558d168000-7f558d169000 rw-p 00000000 00:00 0
