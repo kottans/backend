@@ -10,18 +10,6 @@ Learn some command line, server and http tools.
 
    **Note:** Completion of free content (Interactive Lessons) is the required minimum, but Quizzes and Freeform Projects should also be available via 7-day trial of Codecademy. Do them if you can, it's great practice.
 
-   **A note for Windows users:** This course provides a virtual environment to
-   type commands in. However, if you want to later use these commands in practice,
-   you will need to work with Unix Shell as many commands are not supported by
-   Windows `cmd` or PowerShell. You must have already installed `git`
-   from [git-scm.com](https://git-scm.com/downloads).
-   It offers Git Bash that can be used to type bash commands in.
-
-   Right click anywhere in file explorer and select
-   `Git Bash here` option.
-
-   ![windows-git-bash](../img/windows-git-bash.png)
-
 2. Pass all Learning the Shell section on [linuxcommand.org](http://linuxcommand.org/).
 
 <!-- [Web Development](https://www.udacity.com/course/web-development--cs253) -->

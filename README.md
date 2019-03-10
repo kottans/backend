@@ -62,6 +62,18 @@ If you have any questions you can ask us in one of our chats.
 1. **Videos:** same as for the reading; watch the video —
    answer three questions.
 
+### Programming Language Path Disclaimer
+
+![Node.js][node]![Golang][go]
+
+- This course contains __general__, __nodejs__ and __golang__ tasks. You __don't need to do all of them__, just pick either nodejs or golang tasks depending on course you've enrolled.
+- Nodejs-only tasks will be marked with prefix :vertical_traffic_light:__Node.js__:vertical_traffic_light:
+- Golang-only tasks will be marked with prefix :vertical_traffic_light:__Golang__:vertical_traffic_light:
+
+### Oparation System Disclaimer
+
+- This course assumes that you have up and running UNIX-based OS on your machine. If you're windows user consider to use [VM](https://www.virtualbox.org/wiki/Downloads) for UNIX-system related tasks.
+
 ### Chats
 
 For your comfort we have created several chats in the telegram:
@@ -106,7 +118,6 @@ like that (and we’ll never stop).
 - We respect intellectual property - there is hard work of an author
   or a group of authors behind all materials that we use.
 
-
 [icon-mit]: https://img.shields.io/badge/license-MIT-blue.svg
 [icon-ideas]: https://img.shields.io/badge/google--doc-ideas-ff69b4.svg
 [ideas]: https://docs.google.com/spreadsheets/d/1bZJhYjK3VHOS2HmQb2Fs4aHfEBt8mp1F09j9nEEDaqE/edit#gid=818017811
@@ -116,3 +127,5 @@ like that (and we’ll never stop).
 [markdown]: https://help.github.com/categories/writing-on-github/
 [wiki-stupid-question]: https://en.wikipedia.org/wiki/No_such_thing_as_a_stupid_question
 [kottans-backend]: https://github.com/kottans/backend
+[node]: ./img/node.png
+[go]: ./img/go.png
