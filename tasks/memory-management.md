@@ -12,11 +12,6 @@
 1. :vertical_traffic_light:__Node.js__:vertical_traffic_light: [Understanding Garbage Collection and Hunting Memory Leaks in Node.js](https://blog.codeship.com/understanding-garbage-collection-in-node-js/)
 1. :vertical_traffic_light:__Golang__:vertical_traffic_light: [Go Memory Management](https://povilasv.me/go-memory-management/)
 
-If you honestly finished all the previous steps then go ahead and share it with
-others — post a message to [course channel][chat] with the link to your repo
-and the words _Responsive Web Design Fundamentals – finished_.
-
-When you finish this task you can start the next one.
 
 Finish the subtasks (1), (2) and (3) above.
 
@@ -24,15 +19,15 @@ When complete do the following:
 
 1. In your `kottans-backend` repo `README.md`:
    - add header `## Memory Management`
-   - add answers for following questions:
+   - add answers to the following questions:
      - What's going to happen if program reaches maximum limit of stack ?
      - What's going to happen if program requests a big (more then 128KB) memory allocation on heap ?
      - What's the difference between Text and Data memory segments ?
 1. From your termianl list all currently running processes using `ps -a` command and then:
-   - Pick any process you like to check its memory mapping (for instance it can be `bash` process its self) and copy its PID (process ID).
+   - Pick any process you like to check its memory mapping (for instance it can be `bash` process itself) and copy its PID (process ID).
    - Call `cat /proc/<PID>/map` to get info about process memory mapping state. Or `vmmap -64 -p <PID>` on MAC.
-   - You will get out put with allocated memory map. Discover this info to find _Memory Mapping Segment_, _Heap_ and _Stack_ fragments.
-   - Copy output of `proc`/`vmmap` command. And paste it to `kottans-backend` `README.md` file behind your `## Memory Management` answers. Use \`\`\`{content}\`\`\` Markdown formatting to keep it readable. It should similar to this:
+   - You will get output with allocated memory map. Discover this info to find _Memory Mapping Segment_, _Heap_ and _Stack_ fragments.
+   - Copy output of `proc`/`vmmap` command. And paste it to `kottans-backend` `README.md` file after your `## Memory Management` answers. Use ```{content}``` Markdown formatting to keep it readable. It should look similar to this:
    ```md
    556dfe5af000-556dfe6b3000 r-xp 00000000 08:08 6553607 /bin/bash
    556dfe8b2000-556dfe8b6000 r--p 00103000 08:08 6553607 /bin/bash
@@ -58,14 +53,11 @@ When complete do the following:
    7ffe96b73000-7ffe96b75000 r-xp 00000000 00:00 0 [vdso]
    ffffffffff600000-ffffffffff601000 r-xp 00000000 00:00 0 [vsyscall]
    ```
-   - Behind `proc/map` output provide examples of _Memory Mapping Segment_, _Heap_ and _Stack_ fragments address. For instance: `Heap - 556dff36b000-556dff4e3000`, `Stack - 7ffe96b2c000-7ffe96b4d000`, `MMS - 7f558b397000-7f558b3a2000`.
-1. In your `kottans-backend` repo `README.md`:
-   - add header `## kottans-backend`
-   - list your reflections on all subtasks
+   - After `proc/map` output provide examples of _Memory Mapping Segment_, _Heap_ and _Stack_ fragments address. For instance: `Heap - 556dff36b000-556dff4e3000`, `Stack - 7ffe96b2c000-7ffe96b4d000`, `MMS - 7f558b397000-7f558b3a2000`.
+1. In your `kottans-backend` repo `README.md` list your reflections on all subtasks
      (_what was new to you_, _what surprised you_, _what you intend to use in future_)
 1. You did a lot already! If you honestly finished all the previous steps then go ahead
-   and share it with others –
-   post a message in [course channel][chat]:
+   and share it with others – post a message in [course channel][chat]:
    `kottans-backend — #done` (or `kottans-backend — #p2p_done` if you are p2p course student) and add the link to your repo. **This step is important, as it helps mentors to track your progress!**
 1. Study Extra Materials below to improve your skills.
    If you feel it affects your overall course performance consider
