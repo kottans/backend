@@ -9,42 +9,43 @@
 ## Stage 0. Self-Study
 
 The online stage of _Backend-End Course_. Following tasks should be completed
-at home to participate offline stage. Learn more in [README](README.md).
-
-### General Basics
+at home to participate in offline stage. Learn more in [README](README.md).
 
 0.  [Git Basics](tasks/git-intro.md)
 1.  [Unix Shell](tasks/unix-shell.md)
 1.  [VCS (hello gitty), GitHub and Collaboration](tasks/git-collaboration.md)
+1.  Data Structures
+1.  TCP, UDP, Network
+1.  HTTP & HTTPs
+1.  File System
+1.  I/O 
+1.  Runtime & Ecosystem
+1.  Databases
+1.  Language-specific Topics: Part I
+1.  Language-spesific Topics: Part II
 
 ## Stage 1. The Show Must Go On
 
-The offline stage of _Backend-End Course_.
+0.  Backend Applications Architecture: Intro
+1.  Environment
+1.  Language-spesific Topics: Advanced
+1.  HTTP Server
+1.  DYI Framework: Wrapper around HTTP module
+1.  DYI Framework: Routing
+1.  DYI Framework: Middleware
+1.  Database Interaction Patterns: DAO, Repository, ActiveRecord
+1.  Databases & SQL: Advanced Topics
+1.  NoSQL Data Bases
+1.  Design Patterns in Backend Applications (MVC etc.)
+1.  Security & Auth
+1.  Testing. CI & CD. Containerization.
+1.  Profiling, Load Testing, Logging.
+1.  Background Tasks & Delayed Execution
 
-### Main thread
+### Course Project
 
-TBD
+Pizza Application
 
-## Supplementary part
-
-Following topics are not the part of the main course and can be held by Kottans after discussions with students.
-Additionally, each student can request, as well as each mentor can propose, a lecture or workshop about any theme.
-
-### Supplementary workshops
-
-TBD
-
-### Supplementary lectures
-
-TBD
-
-### Soft Skill Extras
-
-1.  Problem decomposition
-1.  Roles in IT company
-1.  Agile/SCRUM, SDLC
-1.  How to survive and succeed in job interview
-1.  Product-centric mindset
 
 [icon-chat]: https://img.shields.io/badge/chat-on%20telegram-blue.svg
 [icon-mit]: https://img.shields.io/badge/license-MIT-blue.svg
