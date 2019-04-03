@@ -8,6 +8,19 @@
 
 ## Stage 0. Self-Study
 
+Important note for NodeJS course. In NodeJS course we expect students to be familiar with JavaScript before starting the main part of the course. Here is a list of topics you should be confident with:
+
+1. Array mehods (filter, map, reduce etc.)
+1. ES6 features: arrow functions, classes
+1. Promises, async/await
+1. ES6 modules (import/export syntax)
+1. TBA
+
+If you need to catch up, you can use the following materials for self-study:
+1.  [JavaScript Basics](https://github.com/kottans/frontend/blob/master/tasks/js-basics.md) - list of materials suggested to frontend course students
+1.  [NodeSchool](https://nodeschool.io/) workshops
+1.  TBA
+
 The online stage of _Backend-End Course_. Following tasks should be completed
 at home to participate in offline stage. Learn more in [README](README.md).
 
