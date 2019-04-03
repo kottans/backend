@@ -24,24 +24,27 @@ If you need to catch up, you can use the following materials for self-study:
 The online stage of _Backend-End Course_. Following tasks should be completed
 at home to participate in offline stage. Learn more in [README](README.md).
 
-0.  [Git Basics](tasks/git-intro.md)
+1.  [Git Basics](tasks/git-intro.md)
 1.  [Unix Shell](tasks/unix-shell.md)
 1.  [VCS (hello gitty), GitHub and Collaboration](tasks/git-collaboration.md)
-1.  Data Structures
-1.  TCP, UDP, Network
-1.  HTTP & HTTPs
-1.  File System
-1.  I/O 
-1.  Runtime & Ecosystem
-1.  Databases
-1.  Language-specific Topics: Part I
-1.  Language-spesific Topics: Part II
+1.  [Memory Management](tasks/memory-management.md)
+1.  [Networking and Protocols](tasks/networking-and-protocols.md)
+1.  [Design Patterns: Intro](tasks/patterns.md)
+1.  [Data Structures](tasts/data-structures.md)
+1.  [TCP, UDP, Network](tasks/network.md)
+1.  [HTTP & HTTPs](tasks/http.md)
+1.  [File System](tasks/file_system.md)
+1.  [I/O](tasks/io.md)
+1.  [Runtime & Ecosystem](tasks/runtime_and_ecosystem.md)
+1.  [Databases](tasks/databases_basic.md)
+1.  [Language-specific Topics: Part I](tasks/js_advanced_1.md)
+1.  [Language-spesific Topics: Part II](tasks/js_advanced_2.md)
 
-## Stage 1. The Show Must Go On
+## Stage 1. Main Course
 
-0.  Backend Applications Architecture: Intro
+1.  Backend Applications Architecture: Intro
 1.  Environment
-1.  Language-spesific Topics: Advanced
+1.  Language-specific Topics: Advanced
 1.  HTTP Server
 1.  DYI Framework: Wrapper around HTTP module
 1.  DYI Framework: Routing
