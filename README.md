@@ -70,7 +70,7 @@ If you have any questions you can ask us in one of our chats.
 - Nodejs-only tasks will be marked with prefix :vertical_traffic_light:__Node.js__:vertical_traffic_light:
 - Golang-only tasks will be marked with prefix :vertical_traffic_light:__Golang__:vertical_traffic_light:
 
-### Oparation System Disclaimer
+### Operation Systems Disclaimer
 
 - This course assumes that you have up and running UNIX-based OS on your machine. If you're windows user consider to use [VM](https://www.virtualbox.org/wiki/Downloads) for UNIX-system related tasks.
 
