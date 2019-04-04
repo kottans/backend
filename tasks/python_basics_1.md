@@ -2,9 +2,16 @@
 [![Awesome][icon-awesome]][awesome]
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-# Http & Https
+# Python Basics Part I
 
+Please complete the courses and tutorials listed below:
 
+1. [CodeCademy Python](https://www.codecademy.com/learn/learn-python)
+1. [A Byte of Python](https://python.swaroopch.com/)
+1. [Python on CodeWars](https://www.codewars.com/collections/basic-python)
+1. [Python Koans](https://github.com/gregmalcolm/python_koans)
+1. [Intro to Data Structures and Algorithms](https://www.udacity.com/course/data-structures-and-algorithms-in-python--ud513)
+1. [Python Lessons(RU)](https://devpractice.ru/python-lessons/)
 
 ## Done?
 

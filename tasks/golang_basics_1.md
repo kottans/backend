@@ -2,9 +2,12 @@
 [![Awesome][icon-awesome]][awesome]
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-# Http & Https
+# Golang Basics Part I
 
+Please complete the courses and tutorials listed below:
 
+1. Tour of Go
+1. [Go Koans](https://github.com/cdarwin/go-koans)
 
 ## Done?
 

@@ -4,7 +4,9 @@
 
 # Topic
 
-
+1. TBA
+1. :vertical_traffic_light:__Node.js__:vertical_traffic_light:
+1. :vertical_traffic_light:__Golang__:vertical_traffic_light:
 
 ## Done?
 

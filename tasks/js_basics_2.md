@@ -2,7 +2,7 @@
 [![Awesome][icon-awesome]][awesome]
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-# Http & Https
+# JavaScript Basics. Part II
 
 
 

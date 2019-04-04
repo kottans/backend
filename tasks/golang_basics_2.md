@@ -2,9 +2,11 @@
 [![Awesome][icon-awesome]][awesome]
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-# Http & Https
+# Golang Basics Part II
 
+Please complete the courses and tutorials listed below:
 
+1. TBA
 
 ## Done?
 
