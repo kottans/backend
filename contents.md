@@ -4,29 +4,17 @@
 [![Awesome][icon-awesome]][awesome]
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-# Backend-End Course. Contents
+# Backend Course. Contents
 
 ## Stage 0. Self-Study
 
-Important note for NodeJS course. In NodeJS course we expect students to be familiar with JavaScript before starting the main part of the course. Here is a list of topics you should be confident with:
-
-1. Array mehods (filter, map, reduce etc.)
-1. ES6 features: arrow functions, classes
-1. Promises, async/await
-1. ES6 modules (import/export syntax)
-1. TBA
-
-If you need to catch up, you can use the following materials for self-study:
-1.  [JavaScript Basics](https://github.com/kottans/frontend/blob/master/tasks/js-basics.md) - list of materials suggested to frontend course students
-1.  [NodeSchool](https://nodeschool.io/) workshops
-1.  TBA
-
-The online stage of _Backend-End Course_. Following tasks should be completed
+The online stage of _Backend Course_. Following tasks should be completed
 at home to participate in offline stage. Learn more in [README](README.md).
 
 1.  [Git Basics](tasks/git-intro.md)
 1.  [Unix Shell](tasks/unix-shell.md)
 1.  [VCS (hello gitty), GitHub and Collaboration](tasks/git-collaboration.md)
+1.  [Language-specific Topics: Part I](tasks/language_basics.md)
 1.  [Memory Management](tasks/memory-management.md)
 1.  [Networking and Protocols](tasks/networking-and-protocols.md)
 1.  [Design Patterns: Intro](tasks/patterns.md)
@@ -37,15 +25,14 @@ at home to participate in offline stage. Learn more in [README](README.md).
 1.  [I/O](tasks/io.md)
 1.  [Runtime & Ecosystem](tasks/runtime_and_ecosystem.md)
 1.  [Databases](tasks/databases_basic.md)
-1.  [Language-specific Topics: Part I](tasks/js_advanced_1.md)
-1.  [Language-spesific Topics: Part II](tasks/js_advanced_2.md)
+1.  [Language-specific Topics: Part II](tasks/js_basics_2.md)
 
 ## Stage 1. Main Course
 
 1.  Backend Applications Architecture: Intro
 1.  Environment
 1.  Language-specific Topics: Advanced
-1.  HTTP Server
+1.  HTTP Server From Scratch
 1.  DYI Framework: Wrapper around HTTP module
 1.  DYI Framework: Routing
 1.  DYI Framework: Middleware
@@ -71,3 +58,4 @@ Pizza Application
 [awesome]: https://github.com/sindresorhus/awesome
 [ideas]: https://docs.google.com/spreadsheets/d/1bZJhYjK3VHOS2HmQb2Fs4aHfEBt8mp1F09j9nEEDaqE/edit#gid=818017811
 [icon-kottans-be]: https://img.shields.io/badge/%3D(%5E.%5E)%3D-backend-yellow.svg
+[kottans-backend]: https://github.com/kottans/backend

@@ -3,7 +3,7 @@
 [![Awesome][icon-awesome]][awesome]
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-# Backend-End Course
+# Backend Course
 
 The course contains basics of backend-end development:
 
