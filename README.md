@@ -64,10 +64,11 @@ If you have any questions you can ask us in one of our chats.
 
 ### Programming Language Path Disclaimer
 
-![Node.js][node]![Golang][go]
+![Node.js][node]![Python][python]![Golang][go]
 
-- This course contains __general__, __nodejs__ and __golang__ tasks. You __don't need to do all of them__, just pick either nodejs or golang tasks depending on course you've enrolled.
+- This course contains __general__, __python__, __nodejs__ and __golang__ tasks. You __don't need to do all of them__, just pick either nodejs or golang tasks depending on course you've enrolled.
 - Nodejs-only tasks will be marked with prefix :vertical_traffic_light:__Node.js__:vertical_traffic_light:
+- Python-only tasks will be marked with prefix :vertical_traffic_light:__Python__:vertical_traffic_light:
 - Golang-only tasks will be marked with prefix :vertical_traffic_light:__Golang__:vertical_traffic_light:
 
 ### Operation Systems Disclaimer
