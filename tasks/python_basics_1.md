@@ -16,7 +16,6 @@ If you need to catch up, you can use the following materials for self-study:
 1.  [Learn Python](http://www.learnpython.org/): list of interactive tutorials
 1.  TBA
 
-1. NodeSchool
 
 Please complete the courses and tutorials listed below:
 
