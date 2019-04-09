@@ -6,7 +6,7 @@
 
 1. :vertical_traffic_light:__Node.js__:vertical_traffic_light: [Part I](js_basics_1.md), [Part II](js_basics_2.md)
 1. :vertical_traffic_light:__Golang__:vertical_traffic_light: [Part I](golang_basics_1.md), [Part II](golang_basics_2.md)
-1. :vertical_traffic_light:__Python__:vertical_traffic_light: [Part I](pythons_basics_1.md), [Part II](python_basics_2.md)
+1. :vertical_traffic_light:__Python__:vertical_traffic_light: [Part I](python_basics_1.md), [Part II](python_basics_2.md)
 
 ## Done?
 
