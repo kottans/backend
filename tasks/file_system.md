@@ -4,7 +4,7 @@
 
 # File System
 
-In this section we will dive into the basics of Unix based files systems. Particularly, you will discover
+In this section we will dive into the basics of Unix based file systems. Particularly, you will discover
 notions of file descriptors, users / groups access permissions, special files etc.
 
 ## Theory
@@ -20,18 +20,18 @@ notions of file descriptors, users / groups access permissions, special files et
    your `kottans-backend` repo
 1. In `file_system` folder:
    - create file called `secret.txt`
-   - grand read-write-execute permissions to owned user, read-only permission to owned group and no permissions to other users for file `secret.txt`. Permission indecator for this file should be: `-rwxr-----`
+   - grant read-write-execute permissions to owned user, read-only permission to owned group and no permissions to other users for file `secret.txt`. Permission indicator for this file should be: `-rwxr-----`
    - commit and push your changes to remote
-1. :vertical_traffic_light:**Node.js**:vertical_traffic_light: In your `kottans-backend` folder create file `file_system_task.js`. Within this file, implement program with following behavior:
+1. :vertical_traffic_light:**Node.js**:vertical_traffic_light: In your `kottans-backend` folder create file `file_system_task.js`. In this file, implement a program with following behavior:
    - Upon run (with `node file_system_task.js`), program checks whether or not file `counter.txt` exists.
-   - _If its not_. Program creates new file `counter.txt` with write/read/execute access to **all** users. Writes single digit `1` into the file, closes it and exists with status code 0 (normal exit).
+   - _If its not_. Program creates new file `counter.txt` with write/read/execute access to **all** users. Then it writes single digit `1` into the file, closes it and exists with status code 0 (normal exit).
    - _If it does exist_. Program opens the file `counter.txt`, reads its content and checks whether or not all the content of the file is valid **integer**. If its valid integer, program increments counter by one, writes new digit into the file (replaces previous one), closes the file and exists with status code 0 (normal exit). If its not valid immediately exists with status code 1 (abnormal exit).
 1. :vertical_traffic_light:**Golang**:vertical_traffic_light: In your `kottans-backend` folder create file `file_system_task.go`. Within this file, implement program with following behavior:
    - Upon run (with `go run file_system_task.go`, consider that your `file_system_task.go` should have `main` function to be executable), program checks whether or not file `counter.txt` exists.
    - _If its not_. Program creates new file `counter.txt` with write/read/execute access to **all** users. Writes single digit `1` into the file, closes it and exists with status code 0 (normal exit).
    - _If it does exist_. Program opens the file `counter.txt`, reads its content and checks whether or not all the content of the file is valid **integer**. If its valid integer, program increments counter by one, writes new digit into the file (replaces previous one), closes the file and exists with status code 0 (normal exit). If its not valid immediately exists with status code 1 (abnormal exit).
 1. In your `kottans-backend` repo `README.md`:
-   - add header `## Git Collaboration`
+   - add header `## File System`
    - embed the links to your `secret.txt` file and `file_system_task` source code file.
 1. You did lot already! If you honestly finished all the previous steps then go ahead
    and share it with others –
