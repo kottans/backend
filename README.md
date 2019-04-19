@@ -5,7 +5,7 @@
 
 # Backend Course
 
-The course contains basics of backend-end development:
+The course contains basics of backend development:
 
 computer science basics, databases, programming fundamentals in NodeJS or Golang, and backend frameworks.
 
@@ -71,7 +71,7 @@ If you have any questions you can ask us in one of our chats.
 - Python-only tasks will be marked with prefix :vertical_traffic_light:__Python__:vertical_traffic_light:
 - Golang-only tasks will be marked with prefix :vertical_traffic_light:__Golang__:vertical_traffic_light:
 
-### Operation Systems Disclaimer
+### Operating Systems Disclaimer
 
 - This course assumes that you have up and running UNIX-based OS on your machine. If you're windows user consider to use [VM](https://www.virtualbox.org/wiki/Downloads) for UNIX-system related tasks.
 
