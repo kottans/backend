@@ -9,6 +9,7 @@ Important note. In Python course we expect students to be familiar with Python b
 1. TBA
 
 If you need to catch up, you can use the following materials for self-study:
+1.  [CodingBat](https://codingbat.com/python): elementary exercises
 1.  [CodeCademy Python](https://www.codecademy.com/learn/learn-python)
 1.  [Practice Python](https://www.practicepython.org/) - 36 exercises with solutions for beginners
 1.  Python track on [HackerRank](https://www.hackerrank.com/domains/python)
