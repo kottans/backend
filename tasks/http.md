@@ -14,6 +14,7 @@
 
 ## Practice
 
+This task is based to [this](https://gist.github.com/caspyin/2288960) tutorial by [Brandon Toone](https://github.com/caspyin).
 It's time to apply your knowledge about http by writing actual requests. For this we will use popular commad-line tool `cURL`. Please find out how to install this tool on your OS.  
 We will explore GitHub API. GitHub provides JSON-based API where you can get various informations about users, repositories, commits etc.
 For better learning experience we suggest that you type the requests yourself instead of copy-pasting them.
