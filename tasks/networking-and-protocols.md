@@ -8,8 +8,9 @@
 1. [Networking for Web Developers](https://www.udacity.com/course/networking-for-web-developers--ud256)
 1. [Client-Server Communication](https://www.udacity.com/course/client-server-communication--ud897)
 1. [What happens when you type google.com into your browser and press enter?](https://github.com/alex/what-happens-when)
+1. [How DNS Works](https://howdns.works/)
 
-Finish the courses (1), (2) and (3) and read article (4) above.
+Finish the courses (1), (2) and (3) and read articles (4), (5) above.
 
 When complete do the following:
 1. Make screenshots of your finished lessons from (1), (2), (3)
