@@ -16,7 +16,6 @@ at home to participate in offline stage. Learn more in [README](README.md).
 1.  [VCS (hello gitty), GitHub and Collaboration](tasks/git-collaboration.md)
 1.  [Language-specific Topics: Part I](tasks/language_basics.md)
 1.  [Memory Management](tasks/memory-management.md)
-1.  [Networking and Protocols](tasks/networking-and-protocols.md)
 1.  [TCP, UDP, Network](tasks/network.md)
 1.  [HTTP & HTTPs](tasks/http.md)
 1.  [Design Patterns: Intro](tasks/patterns.md)
