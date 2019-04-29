@@ -8,6 +8,12 @@
 1. [Design Patterns for Humans](https://github.com/kamranahmedse/design-patterns-for-humans)
 1. [Software Architecture & Design](https://www.udacity.com/course/software-architecture-design--ud821)
 
+
+## Language-related materials
+
+- :vertical_traffic_light:__Python__:vertical_traffic_light: [Python Patterns](https://github.com/faif/python-patterns)
+
+
 Read articles (1) and (2) and finish the course (3) above.
 
 When complete do the following:
