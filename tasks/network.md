@@ -8,7 +8,7 @@
 1. [Networking for Web Developers](https://www.udacity.com/course/networking-for-web-developers--ud256)
 1. [How DNS Works](https://howdns.works/)
 2. :vertical_traffic_light:__Node.js__:vertical_traffic_light:[TCP client in Node.js](https://riptutorial.com/node-js/example/22406/a-simple-tcp-client):vertical_traffic_light:__Node.js__:vertical_traffic_light:
-3. :vertical_traffic_light:__Python__:vertical_traffic_light:[TCP echo client in Python][TCP Communication](https://wiki.python.org/moin/TcpCommunication):vertical_traffic_light:__Python__:vertical_traffic_light:
+3. :vertical_traffic_light:__Python__:vertical_traffic_light:[TCP Communication](https://wiki.python.org/moin/TcpCommunication):vertical_traffic_light:__Python__:vertical_traffic_light:
 4. :vertical_traffic_light:__Golang__:vertical_traffic_light:[TCP client and server in Golang](https://systembash.com/a-simple-go-tcp-server-and-tcp-client/):vertical_traffic_light:__Golang__:vertical_traffic_light:
 
 
@@ -61,8 +61,9 @@ Finish the courses (1), and (2) and read article (3) above.
   * After call program will start TCP ports scan, trying to dial each port from `0`to `65535`. If dial is successful program will print dot `.` to `stdout` and save found open port to buffer array. **IMPORTANT**: Each dial attempt should have `300ms` timeout. (If client fails to connect in `300ms` port is skipped).
   * After scan is finished program will print the list of opened ports to `stdout` and exit with status code `0`.
   * As the user, I can limit the range of ports to scan by providing `--ports` argument in format `<start_port>-<end_port>`, for instance: `3-600`.
-  * As the user, I can get a descriptive error if required argument are missing or if some of them have incorrect format.
+  * As the user, I can get a descriptive error if required argument is missing or if some of them have incorrect format.
   * As the user, I can provide `--help` flag to see hint about how to use `TCP sniffer`.
+
 
 
 4. You did lot already! If you honestly finished all the previous steps then go ahead
