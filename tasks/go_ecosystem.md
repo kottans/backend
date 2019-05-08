@@ -2,13 +2,11 @@
 [![Awesome][icon-awesome]][awesome]
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-# Runtime and Ecosystem
+# Golang Runtime and Ecosystem
 
-Please follow the link for your language of choice:
 
-1. :vertical_traffic_light:__Node.js__:vertical_traffic_light: [NodeJS Runtime & Ecosystem](js_ecosystem.md)
-1. :vertical_traffic_light:__Golang__:vertical_traffic_light: [Golang Runtime](go_ecosystem.md)
-1. :vertical_traffic_light:__Python__:vertical_traffic_light: [Python Runtime](python_ecosystem.md)
+Under construction
+
 
 ## Done?
 
