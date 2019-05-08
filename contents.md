@@ -21,8 +21,7 @@ at home to participate in offline stage. Learn more in [README](README.md).
 1.  [Design Patterns: Intro](tasks/patterns.md)
 1.  [Data Structures](tasks/data-structures.md)
 1.  [File System](tasks/file_system.md)
-1.  [I/O](tasks/io.md)
-1.  [Runtime & Ecosystem](tasks/runtime_and_ecosystem.md)
+1.  [Runtime, Ecosystem and I/O](tasks/runtime_and_ecosystem.md)
 1.  [Databases](tasks/databases_basic.md)
 1.  [Language-specific Topics: Part II](tasks/js_basics_2.md)
 
