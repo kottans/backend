@@ -10,8 +10,6 @@ Please complete the courses and tutorials listed below:
 
 ## Done?
 
-➡️ Go forward to ...
-
 ⤴️ Back to [Contents](../contents.md)
 
 [icon-chat]: https://img.shields.io/badge/chat-on%20telegram-blue.svg

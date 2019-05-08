@@ -25,7 +25,7 @@ Please complete the following workshops:
 
 ## Done?
 
-➡️ Go forward to ...
+➡️ Go forward to [Memory Management](memory-management.md)
 
 ⤴️ Back to [Contents](../contents.md)
 

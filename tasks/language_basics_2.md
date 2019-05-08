@@ -4,13 +4,10 @@
 
 # Please follow the link for your language of choice:
 
-1. :vertical_traffic_light:__Node.js__:
-1. :vertical_traffic_light:__Golang__:
-1. :vertical_traffic_light:__Python__:
+1. :vertical_traffic_light:__Node.js__:vertical_traffic_light: [Part II](js_basics_2.md)
+1. :vertical_traffic_light:__Golang__:vertical_traffic_light: [Part II](golang_basics_2.md)
+1. :vertical_traffic_light:__Python__:vertical_traffic_light: [Part II](python_basics_2.md)
 
-## Done?
-
-➡️ Go forward to ...
 
 ⤴️ Back to [Contents](../contents.md)
 

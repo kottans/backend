@@ -54,7 +54,7 @@ When you finish this task you can proceed to the next one.
 
 ## Done?
 
-➡️ Go forward to [Git for Team Collaboration](git-collaboration.md)
+➡️ Go forward to [VCS (hello gitty), GitHub and Collaboration](git-collaboration.md)
 
 ⤴️ Back to [Contents](../contents.md)
 

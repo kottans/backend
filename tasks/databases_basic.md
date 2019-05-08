@@ -17,7 +17,7 @@
 
 ## Done?
 
-➡️ Go forward to ...
+➡️ Go forward to [Language-specific Topics: Part II](language_basics_2.md)
 
 ⤴️ Back to [Contents](../contents.md)
 

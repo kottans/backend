@@ -8,7 +8,6 @@
 
 ## Done?
 
-➡️ Go forward to ...
 
 ⤴️ Back to [Contents](../contents.md)
 

@@ -80,7 +80,7 @@ Choose http verbs for every piece of functionality. If applicable, describe also
 
 ## Done?
 
-➡️ Go forward to ...
+➡️ Go forward to [Design Patterns: Intro](patterns.md)
 
 ⤴️ Back to [Contents](../contents.md)
 

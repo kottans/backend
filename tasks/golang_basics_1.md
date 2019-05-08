@@ -11,7 +11,7 @@ Please complete the courses and tutorials listed below:
 
 ## Done?
 
-➡️ Go forward to ...
+➡️ Go forward to [Memory Management](memory-management.md)
 
 ⤴️ Back to [Contents](../contents.md)
 

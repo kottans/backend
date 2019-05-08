@@ -49,7 +49,7 @@ When you finish this task you can proceed to the next one.
 
 ## Done?
 
-➡️ Go forward to [Intro to HTML & CSS](html-css-intro.md)
+➡️ Go forward to [Language-specific Topics: Part I](language_basics.md)
 
 ⤴️ Back to [Contents](../contents.md)
 
