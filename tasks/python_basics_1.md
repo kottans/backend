@@ -6,7 +6,16 @@
 
 Important note. In Python course we expect students to be familiar with Python before starting the main part of the course. Here is a list of topics you should be confident with:
 
-1. TBA
+1. Data structures in python (lists, tuples, dicts, sets)
+1. Dict and list comprehensions
+1. Iterators and generators. What is different and what is similar? How to build own?
+1. Decorators. How they works? How to build own (function and class based)?
+1. Collections methods (map, reduce, filter, sort) and lambda functions
+1. OOP basics. What is "Class", object? How to write your own classes
+    1. __init__ method
+    1. self keyword in class methods
+    1. @classmethod, @staticmethod decorators
+1. Code style [PEP8](https://www.python.org/dev/peps/pep-0008/) or [PEP8[RU]](https://pep8.ru/doc/pep8/)
 
 If you need to catch up, you can use the following materials for self-study:
 1.  [CodingBat](https://codingbat.com/python): elementary exercises
