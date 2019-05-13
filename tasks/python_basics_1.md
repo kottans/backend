@@ -21,7 +21,7 @@ If you need to catch up, you can use the following materials for self-study:
 1.  [CodingBat](https://codingbat.com/python): elementary exercises
 1.  [CodeCademy Python](https://www.codecademy.com/learn/learn-python)
 1.  [Practice Python](https://www.practicepython.org/) - 36 exercises with solutions for beginners
-1.  Python track on [HackerRank](https://www.hackerrank.com/domains/python)
+1.  Python track on [HackerRank](https://www.hackerrank.com/domains/python), here is minimal [suggested](python_hackerrank.md) tasks
 1.  [Google's Python Class](https://developers.google.com/edu/python/)
 1.  [Learn Python](http://www.learnpython.org/): list of interactive tutorials
 1.  TBA
