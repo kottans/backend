@@ -2,12 +2,37 @@
 [![Awesome][icon-awesome]][awesome]
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-# Please follow the link for your language of choice:
+# Weather APP  
+__Create CLI-program to read  weather forecast in your terminal.__  
+As a user, I can provide location (city name) and required forecast period (accepted values: week forecast or day forecast) and see weather forecast in my terminal. If the city I have provided is not found, the program prints corresponding message and exits.
+All cities I have entered will be stored permanently to file. If I start the program without providing any location, last successful query will be repeated.
 
-1. :vertical_traffic_light:__Node.js__:vertical_traffic_light: [Part II](js_basics_2.md)
-1. :vertical_traffic_light:__Golang__:vertical_traffic_light: [Part II](golang_basics_2.md)
-1. :vertical_traffic_light:__Python__:vertical_traffic_light: [Part II](python_basics_2.md)
+Use Openweather API for requests https://openweathermap.org/api.
 
+City and forecast range should be provided as command-line arguments:  
+`l` for "location": enter city name. Optional. Default value - last successful location name followed by successful query.  
+`r` for "range": supported values: “week” and “day”. Optional. Default value “day"
+
+When called without arguments, the app gets weather for successful location. If no location was chosen, textual message “Please enter the location” will be printed.
+
+Example:
+
+```bash
+my-weather-app --l=London --r=week
+```
+This request will show weather forecast for next week in London
+
+```bash
+my-weather-app r=week
+```
+This request triggers prompt “please enter location”
+
+```bash
+my-weather-app --l=foobar --r=week
+```
+This request for non-existing location will trigger the program to print “nothing found. Please enter a different location” and exit.
+
+The design of weather forecast display is up to you. As minimal requirement please print temperature. You can also use ASCII code and other means to make beautiful messages.
 
 ⤴️ Back to [Contents](../contents.md)
 
