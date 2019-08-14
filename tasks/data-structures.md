@@ -8,7 +8,7 @@
 # Practice
 
 Remember the http module? Time for practice! Write an application which implements stack and queue with access over http.
-A consumer of the app may add items to stack or queue and retrieve items. Stack and queue may contain only numbers and strings. There should be at least two different endpoints (one for stack, one for queue), everything else is up to you. Apply your knowledge of http to decide about appropriate http verbs to implement stack/queue functionality. Decide about the behavior of your app when stack or queue is empty.
+A consumer of the app may add items to stack or queue and retrieve items one by one. Stack and queue may contain only numbers and strings. There should be at least two different endpoints (one for stack, one for queue), everything else is up to you. Apply your knowledge of http to decide about appropriate http verbs to implement stack/queue functionality. Decide about the behavior of your app when stack or queue is empty.
 Rememeber: this task may be implemented in many different ways. There is no single correct solution, so try to make the most of this exercise.
 No need to use persistent data storage (data base). Save the data in memory.
 Describe your API in README.
