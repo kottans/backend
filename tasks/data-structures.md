@@ -7,7 +7,7 @@
 # Practice
 
 Remember the http module? Time for practice! Write an application which implements stack and linked list over http.
-A consumer of the app may add items to stack or linked list and retrieve items. Stack and linked may contain only numbers and strings. There should be at least two different endpoints (one for stack, one for linked list), everything else is up to you. Apply your knowledge of http to decide about appropriate http verbs to implement stack/linked list functionality. Decide about the behavior of your app when stack or linked list is empty.
+A consumer of the app may add items to stack or linked list and retrieve items one by one. Stack and linked may contain only numbers and strings. There should be at least two different endpoints (one for stack, one for linked list), everything else is up to you. Apply your knowledge of http to decide about appropriate http verbs to implement stack/linked list functionality. Decide about the behavior of your app when stack or linked list is empty.
 Rememeber: this task may be implemented in many different ways. There is no single correct solution, so try to make the most of this exercise.
 No need to use persistent data storage (data base). Save the data in memory.
 Describe your API in README.
@@ -56,8 +56,8 @@ Show all: Y - A - C will be returned
 ```
 
 1. TBA
-1. :vertical_traffic_light:__Node.js__:vertical_traffic_light:
-1. :vertical_traffic_light:__Golang__:vertical_traffic_light:
+1. :vertical_traffic_light:**Node.js**:vertical_traffic_light:
+1. :vertical_traffic_light:**Golang**:vertical_traffic_light:
 
 ## Done?
 
