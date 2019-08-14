@@ -12,14 +12,14 @@ Rememeber: this task may be implemented in many different ways. There is no sing
 No need to use persistent data storage (data base). Save the data in memory.
 Describe your API in README.
 
-#### Example requests:
+#### Stack
 
-Stack:
 Operations to be implemented:
 
 - push
 - pop
-  User may add (push) items to the stack and pop item from stack (the stack will no longer contain this item).
+
+User may add (push) items to the stack and pop item from stack (the stack will no longer contain this item).
 
 ```
 Push 1
@@ -30,14 +30,15 @@ pop item: 2 will be returned
 pop item: 1 will be returned
 ```
 
-Linked list:
+#### Linked list
+
 Operations to be implemented:
 
 - insert
 - remove
 - show list
-  User may insert items into the list specifying the successor, remove item from list and see complete list.
-  A request for adding new item will contain the item (mandatory) and item's immediate successor(optional). Item should be inserted before the successor. If no successor is provided, item will be first in the list.
+
+User may insert items into the list specifying the successor, remove item from list and see complete list. A request for adding new item will contain the item (mandatory) and item's immediate successor(optional). Item should be inserted before the successor. If no successor is provided, item will be first in the list.
 
 ```
 
