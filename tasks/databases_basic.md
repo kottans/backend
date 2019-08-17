@@ -23,34 +23,34 @@
 CREATE TABLE IF NOT EXISTS `person` (
     `id` INT AUTO_INCREMENT PRIMARY KEY,
     `first_name` VARCHAR(255) NOT NULL,
-      `last_name` VARCHAR(255) NOT NULL,
+    `last_name` VARCHAR(255) NOT NULL,
     `created_at` DATETIME DEFAULT NOW(),
-      `updated_at` DATETIME DEFAULT NOW()
+    `updated_at` DATETIME DEFAULT NOW()
 )  ENGINE=INNODB;
 
 CREATE TABLE IF NOT EXISTS `item` (
     `id` INT AUTO_INCREMENT PRIMARY KEY,
     `name` VARCHAR(255) NOT NULL,
-      `price` DECIMAL(5,2) DEFAULT 0,
+    `price` DECIMAL(5,2) DEFAULT 0,
     `created_at` DATETIME DEFAULT NOW(),
-      `updated_at` DATETIME DEFAULT NOW()
+    `updated_at` DATETIME DEFAULT NOW()
 )  ENGINE=INNODB;
 
 CREATE TABLE IF NOT EXISTS `order` (
     `id` INT AUTO_INCREMENT PRIMARY KEY,
     `person_id` INT NOT NULL REFERENCES `person`(`id`),
     `created_at` DATETIME DEFAULT NOW(),
-      `updated_at` DATETIME DEFAULT NOW()
+    `updated_at` DATETIME DEFAULT NOW()
 )  ENGINE=INNODB;
 
 CREATE TABLE IF NOT EXISTS `order_item` (
     `id` INT AUTO_INCREMENT PRIMARY KEY,
     `order_id` INT NOT NULL REFERENCES `order`(`id`),
-      `item_id` INT NOT NULL REFERENCES `item_id`(`id`),
-      `quantity` INT DEFAULT 1,
-      `discount` DECIMAL(5,2) DEFAULT 0,
+    `item_id` INT NOT NULL REFERENCES `item_id`(`id`),
+    `quantity` INT DEFAULT 1,
+    `discount` DECIMAL(5,2) DEFAULT 0,
     `created_at` DATETIME DEFAULT NOW(),
-      `updated_at` DATETIME DEFAULT NOW()
+    `updated_at` DATETIME DEFAULT NOW()
 )  ENGINE=INNODB;
 
 INSERT INTO `person`(`first_name`, `last_name`) VALUES
