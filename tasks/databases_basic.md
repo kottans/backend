@@ -2,6 +2,8 @@
 [![Awesome][icon-awesome]][awesome]
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+# Relational Databases Basics
+
 ## Theory
 
 - [Introduction To DBMS](https://www.minigranth.com/dbms-tutorial/dbms-introduction/)
