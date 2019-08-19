@@ -88,7 +88,7 @@ INSERT INTO `order_item`(`order_id`, `item_id`, `quantity`, `discount`) VALUES
 2. Create folder called `sql_basics` in
    your `kottans-backend` repo
 
-3. In `sql_basics` folder create file called `select.sql`. And write SQL SELECT statement to get following output:
+3. In `sql_basics` folder create file called `select.sql` and write SQL SELECT statement to get following output:
 
 | first_name | last_name | total_orders | total_items_bought | total_money_spent |
 | ---------- | --------- | ------------ | ------------------ | ----------------- |
