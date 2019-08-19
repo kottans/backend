@@ -17,7 +17,7 @@
 
 ## Practical Task
 
-1. Given SQL seed data:
+1. Seed data is data that you populate the database with at the time it is created. Assume that the following script was used to create tables and produce seed data:
 
 ```sql
 CREATE TABLE IF NOT EXISTS `person` (
