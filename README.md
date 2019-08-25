@@ -5,7 +5,7 @@
 
 # Backend Course
 
-The course contains basics of backend development: fundamentals of NodeJS or Golang and backend frameworks as well as necessary computer science basics, network and protocols, databas fundamentals.
+The course contains basics of backend development: fundamentals of NodeJS or Golang and backend frameworks as well as necessary computer science basics, network and protocols, database fundamentals etc.
 
 You can use these materials for self-education as well.
 
