@@ -5,19 +5,11 @@
 
 # Backend Course
 
-The course contains basics of backend development:
-
-computer science basics, databases, programming fundamentals in NodeJS or Golang, and backend frameworks.
-
-We plan to decrease the amount of lectures in favor of collective discussions,
-team projects & collective work. And give all power & responsibility
-to students.
+The course contains basics of backend development: fundamentals of NodeJS or Golang and backend frameworks as well as necessary computer science basics, network and protocols, databas fundamentals.
 
 You can use these materials for self-education as well.
 
 ### Admission
-
-Admission for the first main course will be open until XX Sep 2019.
 
 **_More info will be available later on._**
 
@@ -25,30 +17,29 @@ If you have any questions you can ask us in one of our chats.
 
 ### What you will learn
 
-1. Git, github basics, writing good commit messages
+1. Git, GitHub basics, writing good commit messages
 1. Linux, command line basics
-1. What is computer memory and how to properly deal with it
-1. Networking basics
+1. What computer memory is and how to properly deal with it
+1. Network basics
 1. Program Input/Output interaction. Basics of file system management
 1. JS or Golang programming fundamentals
-1. Relational Databases, SQL, NoSQL
-1. Build a bunch of test projects
-1. Have fun together
+1. Relational Databases, SQL
+
+Apart from this we plan to build a bunch of test projects and have fun together.
 
 ### General Requirements
 
 1. **English knowledge:** a lot of the materials will be in English.
-   If you do not feel confident enough in your technical English,
-   you may want to take one of free online english courses.
+   If you do not feel confident in your technical English,
+   you may want to take one of free online English courses.
 
 1. **Repository on GitHub** to save your progress.
    More about repositories in _Task 0_.
 
-1. **Formatting:** it's up to you but remember to make it readable.
-   Using [markdown][markdown] is a good idea.
+1. **Formatting:** style of texts in your repository is up to you but remember to make it readable. Using [markdown][markdown] is a good idea.
 
 1. **Reading:** for each article you are required to read please post
-   the answers to the following questions in your respective repo.
+   the answers to the following questions in your repo.
    Don't worry, your answers will not be graded. It's just a way to reflect
    on what you have learned.
 
@@ -62,18 +53,20 @@ If you have any questions you can ask us in one of our chats.
 1. **Videos:** same as for the reading; watch the video —
    answer three questions.
 
+1. **Programming assignments:** detailed submission instructions will be provided for each assignmnent.
+
 ### Programming Language Path Disclaimer
 
-![Node.js][node]    ![Python][python]    ![Golang][go]
+![Node.js][node] ![Python][python] ![Golang][go]
 
-- This course contains __general__, __python__, __nodejs__ and __golang__ tasks. You __don't need to do all of them__, just pick either nodejs or golang tasks depending on course you've enrolled.
-- Nodejs-only tasks will be marked with prefix :vertical_traffic_light:__Node.js__:vertical_traffic_light:
-- Python-only tasks will be marked with prefix :vertical_traffic_light:__Python__:vertical_traffic_light:
-- Golang-only tasks will be marked with prefix :vertical_traffic_light:__Golang__:vertical_traffic_light:
+- This course contains **general** task and specific tasks for **python**, **nodejs** and **golang**. You **don't need to do all of them**, just pick either python, nodejs or golang tasks depending on course you've enrolled.
+- Nodejs-only tasks will be marked with prefix :vertical_traffic_light:**Node.js**:vertical_traffic_light:
+- Python-only tasks will be marked with prefix :vertical_traffic_light:**Python**:vertical_traffic_light:
+- Golang-only tasks will be marked with prefix :vertical_traffic_light:**Golang**:vertical_traffic_light:
 
 ### Operating Systems Disclaimer
 
-- This course assumes that you have up and running UNIX-based OS on your machine. If you're windows user consider to use [VM](https://www.virtualbox.org/wiki/Downloads) for UNIX-system related tasks.
+- This course assumes that you have up and running UNIX-based OS on your machine. If you're a Windows user consider to use [VM](https://www.virtualbox.org/wiki/Downloads) for UNIX-system related tasks.
 
 ### Chats
 

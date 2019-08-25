@@ -34,6 +34,9 @@ Get familiar with Git and GitHub.
 
 When you finish this task you can start the next one.
 
+**Note to students of previous courses who have already done this task**
+You don't need to do this task again, just create the repo.
+
 ## Extra Materials
 
 - [Git за 30 хвилин](https://codeguida.com/post/453)

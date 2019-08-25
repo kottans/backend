@@ -9,6 +9,9 @@ But! It's a great new course. It'll help you a lot to understand better
 the git and operate with it and you'll benefit from it on your future job
 and projects!
 
+**Note to students of previous courses who have already done this task**
+You don't need to do this task again.
+
 1.  [What is Version Control](https://classroom.udacity.com/courses/ud123/)
 
 2.  [GitHub & Collaboration](https://classroom.udacity.com/courses/ud456)
