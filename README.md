@@ -72,8 +72,8 @@ Apart from this we plan to build a bunch of test projects and have fun together.
 
 For your comfort we have created several chats in the telegram:
 
-1. BE Students | Kottans - chat for students, where you can discuss anything related to the current course
-1. BE Questionarium | Kottans - if you need a help of one of the mentors, or maybe from all of them simultaneously, you can ask it there
+1. [BE Students | Kottans](https://t.me/joinchat/Dqrdixe1c2K9bXUFBzNWtg) - chat for students, where you can discuss anything related to the current course
+1. [BE Questionarium | Kottans](https://t.me/joinchat/DqrdixM_mjurcmQkkQ11Og) - if you need a help of one of the mentors, or maybe from all of them simultaneously, you can ask it there
 1. [Kottans Radio](https://t.me/radio_kottans) - our channel with usefull links and awesome articles ;)
 
 ### Do you have any questions?
