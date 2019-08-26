@@ -8,7 +8,7 @@
 1.  [NodeSchool](https://nodeschool.io/) workshops  
 Please complete the following workshops: 
 - [learnyounode](https://github.com/workshopper/learnyounode)
-- [What exactly is Node.js?](https://medium.freecodecamp.org/what-exactly-is-node-js-ae36e97449f5p)
+- [What exactly is Node.js?](https://medium.freecodecamp.org/what-exactly-is-node-js-ae36e97449f5)
 - [Franziska Hinkelmann: JavaScript engines - how do they even?](https://youtu.be/p-iiEDtpy6I)(Video)
 
 Get acquainted with NodeJS documentation:
