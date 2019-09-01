@@ -72,7 +72,7 @@ Save your program in a file. Follow instructions in [this repo](https://github.c
 
 4. You did lot already! If you honestly finished all the previous steps then go ahead
    and share it with others –
-   post a message in [course channel][chat]:
+   post a message in [course channel](https://t.me/joinchat/Dqrdixe1c2K9bXUFBzNWtg):
    `TCP. UDP. Network — #done` (or `TCP. UDP. Network — #done` if you are p2p course student) and add the link to your repo. **This step is important, as it helps mentors to track your progress!**
    When complete do the following:
 

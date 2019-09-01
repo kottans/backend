@@ -35,7 +35,7 @@ notions of file descriptors, users / groups access permissions, special files et
    - embed the links to your `secret.txt` file and `file_system_task` source code file.
 1. You did lot already! If you honestly finished all the previous steps then go ahead
    and share it with others –
-   post a message in [course channel][chat]:
+   post a message in [course channel](https://t.me/joinchat/Dqrdixe1c2K9bXUFBzNWtg):
    `File System — #done` and add the link to your repo. **This step is important, as it helps mentors to track your progress!**
 
 ## Extra materials
