@@ -15,7 +15,7 @@ Learn some command line, server and http tools.
 <!-- [Web Development](https://www.udacity.com/course/web-development--cs253) -->
 <!-- [Designing RESTful APIs](https://www.udacity.com/course/designing-restful-apis--ud388) -->
 
-Finish the course (1) and also read articles (2) and (3) above.
+Finish the course (1) and also read an article (2).
 
 When complete do the following:
 
