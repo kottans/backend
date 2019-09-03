@@ -40,7 +40,7 @@ When you finish this task you can proceed to the next one.
 
 ## Extra Materials
 
-- [Linux Bash Shell Cheat Sheet](https://learncodethehardway.org/unix/bash_cheat_sheet.pdf)
+- [Linux Bash Shell Cheat Sheet](https://annawilliford.github.io/2016-04-02-UTA/workshop/Linux/bash_cheat_sheet.pdf)
 - [Advanced Bash-Scripting Guide. An in-depth exploration of the art of shell scripting](http://www.tldp.org/LDP/abs/html/index.html)
 - [A Guide to 100 (ish) Useful Unix Commands ](http://oliverelliott.org/article/computing/ref_unix/)
 
