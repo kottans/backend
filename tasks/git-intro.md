@@ -51,6 +51,8 @@ You don't need to do this task again, just create the repo.
 
 - [Как учиться и справляться с негативными мыслями](https://guides.hexlet.io/learning/)
 
+- [Скринкаст по Git от Ильи Кантора (создателя ресурса learn.javascript.ru)](http://learn.javascript.ru/screencast/git)
+
 ## Done?
 
 ➡️ Go forward to [Unix Shell](unix-shell.md)
