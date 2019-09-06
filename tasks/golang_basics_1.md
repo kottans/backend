@@ -9,6 +9,10 @@ Please complete the courses and tutorials listed below:
 1. [Tour of Go](https://tour.golang.org)
 1. [Go Koans](https://github.com/cdarwin/go-koans)
 
+## Extra materials
+
+1. [An Introduction to Programming in Go](https://www.golang-book.com/books/intro);
+
 ## Done?
 
 ➡️ Go forward to [Memory Management](memory-management.md)
