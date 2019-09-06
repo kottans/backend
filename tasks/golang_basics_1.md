@@ -132,7 +132,7 @@ const digits =
 In `main.go` create write a program that satisfy following [user stories](https://en.wikipedia.org/wiki/User_story):
 
 - As the user, I can take any unsigned integer (`uint`) value to use as argument in `go run main.go <unsigned_integer>` call.
-- Using `uint` as input I can get value as ASCII art in my termanal window (asterisk borders are mandatory). For instance:
+- Using `uint` as input I can get output value as ASCII art in my termanal window. For instance:
 
 `go run main.go 1234567890`
 
@@ -148,6 +148,7 @@ In `main.go` create write a program that satisfy following [user stories](https:
 ***********************************************************
 ```
 
+- Note that. Asterisk borders are mandatory
 - As the user, I can see error message in my terminal if my input is not valid (in case if given more than 1 argument or if 1 argument is not `uint` value).
 
 4. Useful links
