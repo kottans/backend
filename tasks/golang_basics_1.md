@@ -148,7 +148,7 @@ In `main.go` create write a program that satisfy following [user stories](https:
 ***********************************************************
 ```
 
-- Note that. Asterisk borders are mandatory
+- Note, that asterisk borders are mandatory
 - As the user, I can see error message in my terminal if my input is not valid (in case if given more than 1 argument or if 1 argument is not `uint` value).
 
 4. Useful links
@@ -156,10 +156,10 @@ In `main.go` create write a program that satisfy following [user stories](https:
 - [Strings cheatsheet](https://yourbasic.org/golang/string-functions-reference-cheat-sheet/)
 - [Os Args Example](https://gobyexample.com/command-line-arguments)
 
-1. In your `kottans-backend` repo `README.md`:
+5. In your `kottans-backend` repo `README.md`:
    - add header `## Go basics 1`
    - embed the link to your `main.go` source code file.
-1. If you honestly finished all the previous steps then go ahead
+6. If you honestly finished all the previous steps then go ahead
    and share it with others –
    post a message in [course channel](https://t.me/joinchat/Dqrdixe1c2K9bXUFBzNWtg):
    `Go basics 1 — #done` and add the link to your repo. **This step is important, as it helps mentors to track your progress!**
