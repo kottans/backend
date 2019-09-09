@@ -11,7 +11,12 @@ You can use these materials for self-education as well.
 
 ### Admission
 
-**_More info will be available later on._**
+1. The course is free of charge. 
+1. Course consists of two phases: remote (online) phase and traditional (offline) lecture phase.
+1. Remote phase is free to join for anyone.
+1. Offline part will be accessible for students who have successfully finished remove phase and passed the interview.
+1. Remote phase starts on September 9th 2019 and will finish in app. 3 months.
+
 
 If you have any questions you can ask us in one of our chats.
 
