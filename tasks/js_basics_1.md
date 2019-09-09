@@ -22,7 +22,15 @@ In this task you will get familiar with some features of NodeJS which you may ha
 - [functional-javascript-workshop](https://github.com/timoxley/functional-javascript-workshop)
 - [stream adventure](https://github.com/workshopper/stream-adventure)
 
-Keep screenshot of completed workshops and add them to README file of your repo.
+1. Make a screenshot of your completed workshops and put the screenshot in `node_basic_1` folder in your `kottans-backend` repo.
+
+2. In your `kottans-backend` repo `README.md`
+   - add header `## NodeJS Basics 1`
+   - embed the screenshot or add a link to the screenshot
+   - list your reflections on all subtasks (what was new to you, what surprised you, what you intend to use in future)
+
+3. If you honestly finished all the previous steps then go ahead and share it with others – post a message in [course channel](https://t.me/joinchat/Dqrdixe1c2K9bXUFBzNWtg):
+   `NodeJS basics 1 — #done` and add the link to your repo. **This step is important, as it helps mentors to track your progress!** 
 
 ## Done?
 
