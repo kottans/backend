@@ -24,7 +24,7 @@ When complete do the following:
      - What's the difference between Text and Data memory segments ?
 1. From your termianl list all currently running processes using `ps -a` command and then:
    - Pick any process you like to check its memory mapping (for instance it can be `bash` process itself) and copy its PID (process ID).
-   - Call `cat /proc/<PID>/map` to get info about process memory mapping state. Or `vmmap -64 -p <PID>` on MAC.
+   - Call `cat /proc/<PID>/maps` to get info about process memory mapping state. Or `vmmap -64 -p <PID>` on MAC.
    - You will get output with allocated memory map. Discover this info to find _Memory Mapping Segment_, _Heap_ and _Stack_ fragments.
    - Copy output of `proc`/`vmmap` command. And paste it to `kottans-backend` `README.md` file after your `## Memory Management` answers. Use `{content}` Markdown formatting to keep it readable. It should look similar to this:
    ```md
@@ -52,7 +52,7 @@ When complete do the following:
    7ffe96b73000-7ffe96b75000 r-xp 00000000 00:00 0 [vdso]
    ffffffffff600000-ffffffffff601000 r-xp 00000000 00:00 0 [vsyscall]
    ```
-   - After `proc/map` output provide examples of _Memory Mapping Segment_, _Heap_ and _Stack_ fragments address. For instance: `Heap - 556dff36b000-556dff4e3000`, `Stack - 7ffe96b2c000-7ffe96b4d000`, `MMS - 7f558b397000-7f558b3a2000`.
+   - After `proc/maps` output provide examples of _Memory Mapping Segment_, _Heap_ and _Stack_ fragments address. For instance: `Heap - 556dff36b000-556dff4e3000`, `Stack - 7ffe96b2c000-7ffe96b4d000`, `MMS - 7f558b397000-7f558b3a2000`.
 1. In your `kottans-backend` repo `README.md` list your reflections on all subtasks
    (_what was new to you_, _what surprised you_, _what you intend to use in future_)
 1. You did a lot already! If you honestly finished all the previous steps then go ahead
