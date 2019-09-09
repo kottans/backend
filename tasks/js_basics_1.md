@@ -29,6 +29,9 @@ In this task you will get familiar with some features of NodeJS which you may ha
    - embed the screenshot or add a link to the screenshot
    - list your reflections on all subtasks (what was new to you, what surprised you, what you intend to use in future)
 
+3. If you honestly finished all the previous steps then go ahead and share it with others – post a message in [course channel](https://t.me/joinchat/Dqrdixe1c2K9bXUFBzNWtg):
+   `NodeJS basics 1 — #done` and add the link to your repo. **This step is important, as it helps mentors to track your progress!** 
+
 ## Done?
 
 ➡️ Go forward to [Memory Management](memory-management.md)
