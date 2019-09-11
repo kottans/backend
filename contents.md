@@ -9,21 +9,21 @@
 ## Stage 0. Self-Study
 
 The online stage of _Backend Course_. Following tasks should be completed
-at home to participate in offline stage. Learn more in [README](README.md).
+at home to participate in offline stage. Learn more in [README](README.md). Tasks marked with :abc: emoji are language-specific. All other tasks are mostly language-independent.
 
 1.  [Git Basics](tasks/git-intro.md)
 1.  [Unix Shell](tasks/unix-shell.md)
 1.  [VCS (hello gitty), GitHub and Collaboration](tasks/git-collaboration.md)
-1.  [Language-specific Topics: Part I](tasks/language_basics.md)
+1.  [Language-specific Topics: Part I](tasks/language_basics.md) :abc:
 1.  [Memory Management](tasks/memory-management.md)
-1.  [TCP, UDP, Network](tasks/network.md)
+1.  [TCP, UDP, Network](tasks/network.md) :abc:
 1.  [HTTP & HTTPs](tasks/http.md)
 1.  [Design Patterns: Intro](tasks/patterns.md)
-1.  [Data Structures](tasks/data-structures.md)
+1.  [Data Structures](tasks/data-structures.md) :abc:
 1.  [File System](tasks/file_system.md)
-1.  [Runtime, Ecosystem and I/O](tasks/runtime_and_ecosystem.md)
+1.  [Runtime, Ecosystem and I/O](tasks/runtime_and_ecosystem.md) :abc:
 1.  [Databases](tasks/databases_basic.md)
-1.  [Language-specific Topics: Part II](tasks/js_basics_2.md)
+1.  [Language-specific Topics: Part II](tasks/js_basics_2.md) :abc:
 
 ## Stage 1. Main Course
 
