@@ -57,7 +57,7 @@ When complete do the following:
    (_what was new to you_, _what surprised you_, _what you intend to use in future_)
 1. You did a lot already! If you honestly finished all the previous steps then go ahead
    and share it with others – post a message in [course channel](https://t.me/joinchat/Dqrdixe1c2K9bXUFBzNWtg):
-   `kottans-backend — #done` (or `kottans-backend — #p2p_done` if you are p2p course student) and add the link to your repo. **This step is important, as it helps mentors to track your progress!**
+   `Memory Management — #done` (or `Memory Management — #p2p_done` if you are p2p course student) and add the link to your repo. **This step is important, as it helps mentors to track your progress!**
 1. Study Extra Materials below to improve your skills.
    If you feel it affects your overall course performance consider
    reverting to those later e.g. when you have all mandatory tasks completed.
