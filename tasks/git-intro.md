@@ -45,6 +45,8 @@ You don't need to do this task again, just create the repo.
 
 - [Learn git branching](http://learngitbranching.js.org) — improve your understanding of branching
 
+- [Fork a repo](https://help.github.com/en/articles/fork-a-repo#step-2-create-a-local-clone-of-your-fork) - freely experiment with changes without affecting the original project; [Sync a repo](https://help.github.com/en/articles/syncing-a-fork) - keep a fork of the repository up-to-date with the upstream repository
+
 - [Communicating using Markdown](https://lab.github.com/githubtraining/communicating-using-markdown)
 
 - [TypingClub](https://www.typingclub.com/) — improve your typing speed
