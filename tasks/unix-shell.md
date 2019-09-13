@@ -6,7 +6,7 @@
 
 Learn some command line, server and http tools.
 
-1. [Linux Sruvival (4 modules)](https://linuxsurvival.com/linux-tutorial-introduction/)
+1. [Linux Survival (4 modules)](https://linuxsurvival.com/linux-tutorial-introduction/)
 
 2. Pass all Learning the Shell section on [linuxcommand.org](http://linuxcommand.org/).
 
