@@ -7,13 +7,11 @@
 ## Theory
 
 - [Introduction To DBMS](https://www.minigranth.com/dbms-tutorial/dbms-introduction/)
-- [Intro to Relational Databases](https://www.udacity.com/course/intro-to-relational-databases--ud197)
-- [How does a relational database work](http://coding-geek.com/how-databases-work/)
-- [CodeCademy Learn SQL](https://www.codecademy.com/learn/learn-sql)
 - [SQL Introduction](https://www.minigranth.com/sql-tutorial/sql-introduction/)
-- [CodeCademy Table Transformation](https://www.codecademy.com/learn/sql-table-transformation)
-- [CodeCademy SQL analyzing Business Metrocs](https://www.codecademy.com/learn/sql-analyzing-business-metrics)
+- [Intro to Relational Databases](https://www.udacity.com/course/intro-to-relational-databases--ud197)
+- [CodeCademy Learn SQL](https://www.codecademy.com/learn/learn-sql)
 - [Intro to SQL: Querying and managing data](https://www.khanacademy.org/computing/computer-programming/sql)
+
 
 ## Practical Task
 
@@ -99,6 +97,10 @@ INSERT INTO `order_item`(`order_id`, `item_id`, `quantity`, `discount`) VALUES
 
 4. Note that discount column value reduces order_item price **for each** item.
 5. Use [DB Fiddle](https://www.db-fiddle.com/f/xceugd67tNjdx7PSHVr4qw/0) for practice.
+
+## Additional Materials
+
+- [How does a relational database work](http://coding-geek.com/how-databases-work/)
 
 ## Done?
 
