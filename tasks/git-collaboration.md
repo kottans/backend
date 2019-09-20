@@ -12,11 +12,9 @@ and projects!
 **Note to students of previous courses who have already done this task**
 You don't need to do this task again.
 
-1.  [What is Version Control](https://classroom.udacity.com/courses/ud123/)
+1.  [GitHub & Collaboration](https://classroom.udacity.com/courses/ud456)
 
-2.  [GitHub & Collaboration](https://classroom.udacity.com/courses/ud456)
-
-Finish the courses (1) and (2) above.
+Finish the courses (1).
 
 When complete do the following:
 
