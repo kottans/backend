@@ -4,6 +4,12 @@
 
 # Data Structures
 
+1. [Stacks and Overflows](https://medium.com/basecs/stacks-and-overflows-dbcf7854dc67)
+1. [What's a Linked List Anyway? Part I](https://medium.com/basecs/whats-a-linked-list-anyway-part-1-d8b7e6508b9d)
+1. [What's a Linked List Anyway? Part II](https://medium.com/basecs/whats-a-linked-list-anyway-part-2-131d96f71996)
+1. [To Queue Or Not To Queue](https://medium.com/basecs/to-queue-or-not-to-queue-2653bcde5b04)
+1. [How To Not Be Stumped By Trees](https://medium.com/basecs/how-to-not-be-stumped-by-trees-5f36208f68a7)
+
 # Practice
 
 Remember the http module? Time for practice! Write an application which implements stack and linked list over http.
@@ -56,9 +62,9 @@ Show all: Y - A - C will be returned
 
 ```
 
-1. TBA
-1. :vertical_traffic_light:**Node.js**:vertical_traffic_light:
-1. :vertical_traffic_light:**Golang**:vertical_traffic_light:
+## Task Submission
+
+When ready, make a PR to homeworks repository.
 
 ## Done?
 
