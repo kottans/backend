@@ -13,6 +13,7 @@ notions of file descriptors, users / groups access permissions, special files et
 1. Discover [unix file permissions and access modes](https://www.tutorialspoint.com/unix/unix-file-permission.htm)
 1. :vertical_traffic_light:**Node.js**:vertical_traffic_light: [Node.js File System](https://www.tutorialsteacher.com/nodejs/nodejs-file-system)
 1. :vertical_traffic_light:**Golang**:vertical_traffic_light: [Working with Files in Go](https://www.devdungeon.com/content/working-files-go)
+1. :vertical_traffic_light:**Python**:vertical_traffic_light: [Working With Files in Python](https://realpython.com/working-with-files-in-python/)
 
 ## Practical Task
 
