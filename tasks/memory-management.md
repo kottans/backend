@@ -11,6 +11,8 @@
    - If you're Mac user consider to use `vmmap` or `vmmap64` to discover process memory mapping. More info [here](https://developer.apple.com/library/archive/documentation/Performance/Conceptual/ManagingMemory/Articles/VMPages.html#//apple_ref/doc/uid/20001985-97196-TPXREF127).
 1. :vertical_traffic_light:**Node.js**:vertical_traffic_light: [Understanding Garbage Collection and Hunting Memory Leaks in Node.js](https://blog.codeship.com/understanding-garbage-collection-in-node-js/)
 1. :vertical_traffic_light:**Golang**:vertical_traffic_light: [Go Memory Management](https://povilasv.me/go-memory-management/)
+1. :vertical_traffic_light:**Python**:vertical_traffic_light: [Understanding Memory Usage and Leaks in Our Python Code](https://medium.com/python-features/understanding-memory-usage-and-leaks-in-our-python-code-beginners-c9dc211887af)
+1. :vertical_traffic_light:**Python**:vertical_traffic_light: [Profiling Memory Usage in Python](https://www.pluralsight.com/guides/profiling-memory-usage-in-python)
 
 Finish the subtasks (1), (2) and (3) above.
 
