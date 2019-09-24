@@ -43,11 +43,6 @@ at home to participate in offline stage. Learn more in [README](README.md). Task
 1.  Profiling, Load Testing, Logging.
 1.  Background Tasks & Delayed Execution
 
-### Course Project
-
-Pizza Application
-
-
 [icon-chat]: https://img.shields.io/badge/chat-on%20telegram-blue.svg
 [icon-mit]: https://img.shields.io/badge/license-MIT-blue.svg
 [icon-ideas]: https://img.shields.io/badge/google--doc-ideas-ff69b4.svg
