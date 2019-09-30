@@ -12,13 +12,11 @@ and projects!
 **Note to students of previous courses who have already done this task**
 You don't need to do this task again.
 
-1.  [GitHub & Collaboration](https://classroom.udacity.com/courses/ud456)
-
-Finish the courses (1).
+1. Finish the course [GitHub & Collaboration](https://classroom.udacity.com/courses/ud456)
 
 When complete do the following:
 
-1. Make screenshots of your finished lessons from (1) and (2)
+1. Make screenshots of your finished lessons (1)
    and put the screenshots in `task_git_collaboration` folder in
    your `kottans-backend` repo
 1. In your `kottans-backend` repo `README.md`:
