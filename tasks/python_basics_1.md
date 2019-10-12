@@ -6,34 +6,35 @@
 
 Important note. In Python course we expect students to be familiar with Python before starting the main part of the course. Here is a list of topics you should be confident with:
 
-1. Data structures in python (lists, tuples, dicts, sets)
-1. Dict and list comprehensions
-1. Iterators and generators. What is different and what is similar? How to build own?
-1. Decorators. How they works? How to build own (function and class based)?
-1. Collections methods (map, reduce, filter, sort) and lambda functions
-1. OOP basics. What is "Class", object? How to write your own classes
+1. [Data structures](https://python.swaroopch.com/data_structures.html) in python.
+1. [List](https://www.pythonforbeginners.com/basics/list-comprehensions-in-python) and [dict](https://www.datacamp.com/community/tutorials/python-dictionary-comprehension) comprehensions. 
+1. [Iterators](https://www.w3schools.com/python/python_iterators.asp) and [generators](https://www.programiz.com/python-programming/generator). 
+1. [Decorators](https://www.geeksforgeeks.org/decorators-in-python/). How they works? How to build own (function and class based)?
+1. Collections methods (map, reduce, filter, sort) and lambda functions. [link](https://book.pythontips.com/en/latest/map_filter.html) and [link](https://medium.com/better-programming/lambda-map-and-filter-in-python-4935f248593)
+1. OOP basics. What is "Class", object? How to write your own classes. [Python OOP](https://realpython.com/python3-object-oriented-programming/), [easy peasy explanation of OOP](https://www.freecodecamp.org/news/object-oriented-programming-concepts-21bb035f7260/).
     1. __init__ method
     1. self keyword in class methods
-    1. @classmethod, @staticmethod decorators
+    1. @classmethod, @staticmethod decorators [link](https://stackabuse.com/pythons-classmethod-and-staticmethod-explained/)
+
+1. [pip](https://pip.pypa.io/en/stable/), [virtualenv](https://virtualenv.pypa.io/en/latest/userguide/) and [pipenv](https://github.com/pypa/pipenv)
 1. Code style [PEP8](https://www.python.org/dev/peps/pep-0008/) or [PEP8[RU]](https://pep8.ru/doc/pep8/)
 
-If you need to catch up, you can use the following materials for self-study:
+To catch up, you can use the following materials for self-study:
 1.  [CodingBat](https://codingbat.com/python): elementary exercises
-1.  [CodeCademy Python](https://www.codecademy.com/learn/learn-python)
-1.  [Practice Python](https://www.practicepython.org/) - 36 exercises with solutions for beginners
-1.  Python track on [HackerRank](https://www.hackerrank.com/domains/python), here is minimal [suggested](python_hackerrank.md) tasks
-1.  [Google's Python Class](https://developers.google.com/edu/python/)
-1.  [Learn Python](http://www.learnpython.org/): list of interactive tutorials
-1.  TBA
+2.  [Practice Python](https://www.practicepython.org/) - 36 exercises with solutions for beginners
+3.  Python track on [HackerRank](https://www.hackerrank.com/domains/python).
+   
+Submission:
+1. In your `kottans-backend` repo `README.md`
+   - add header `## Python Basics 1`
+   - add link to your HackerRank profile (**profile needs to be public**)
+1. In your `kottans-backend` repo add folder **`python_basics_1`** and store your solution for different tasks.
+2. In this step your goal is to reach at least 3 stars(Silver) badge and add it to your profile, it`s only 110 points.
+
+3. If you honestly finished all the previous steps then go ahead and share it with others – post a message in [course channel](https://t.me/joinchat/Dqrdixe1c2K9bXUFBzNWtg):
+   `Python basics 1 — #done` and add the link to your repo. **This step is important, as it helps mentors to track your progress!** 
 
 
-Please complete the courses and tutorials listed below:
-
-1. [A Byte of Python](https://python.swaroopch.com/)
-1. [Python on CodeWars](https://www.codewars.com/collections/basic-python)
-1. [Python Koans](https://github.com/gregmalcolm/python_koans)
-1. [Intro to Data Structures and Algorithms](https://www.udacity.com/course/data-structures-and-algorithms-in-python--ud513)
-1. [Python Lessons(RU)](https://devpractice.ru/python-lessons/)
 
 ## Done?
 
