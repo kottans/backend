@@ -24,7 +24,7 @@ When complete do the following:
      - What's going to happen if program reaches maximum limit of stack ?
      - What's going to happen if program requests a big (more then 128KB) memory allocation on heap ?
      - What's the difference between Text and Data memory segments ?
-1. From your termianl list all currently running processes using `ps -a` command and then:
+1. From your terminal list all currently running processes using `ps -a` command and then:
    - Pick any process you like to check its memory mapping (for instance it can be `bash` process itself) and copy its PID (process ID).
    - Call `cat /proc/<PID>/maps` to get info about process memory mapping state. Or `vmmap -64 -p <PID>` on MAC.
    - You will get output with allocated memory map. Discover this info to find _Memory Mapping Segment_, _Heap_ and _Stack_ fragments.
