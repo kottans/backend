@@ -19,22 +19,26 @@ notions of file descriptors, users / groups access permissions, special files et
 
 1. Create folder called `file_system` folder in
    your `kottans-backend` repo
-1. In `file_system` folder:
+2. In `file_system` folder:
    - create file called `secret.txt`
    - grant read-write-execute permissions to owned user, read-only permission to owned group and no permissions to other users for file `secret.txt`. Permission indicator for this file should be: `-rwxr-----`
    - commit and push your changes to remote
-1. :vertical_traffic_light:**Node.js**:vertical_traffic_light: In your `file_system` folder create file `file_system_task.js`. In this file, implement a program with following behavior:
+3. :vertical_traffic_light:**Node.js**:vertical_traffic_light: In your `file_system` folder create file `file_system_task.js`. In this file, implement a program with the following behavior:
    - Upon run (with `node file_system_task.js`), program checks whether or not file `counter.txt` exists.
-   - _If its not_. Program creates new file `counter.txt` with write/read/execute access to **all** users. Then it writes single digit `1` into the file, closes it and exists with status code 0 (normal exit).
-   - _If it does exist_. Program opens the file `counter.txt`, reads its content and checks whether or not all the content of the file is valid **integer**. If its valid integer, program increments counter by one, writes new digit into the file (replaces previous one), closes the file and exists with status code 0 (normal exit). If its not valid immediately exists with status code 1 (abnormal exit).
-1. :vertical_traffic_light:**Golang**:vertical_traffic_light: In your `file_system` folder create file `file_system_task.go`. Within this file, implement program with following behavior:
+   - _If its not_. Program creates new file `counter.txt` with write/read/execute access to **all** users. Then it writes single digit `1` into the file, closes it and exits with status code 0 (normal exit).
+   - _If it does exist_. Program opens the file `counter.txt`, reads its content and checks whether or not all the content of the file is valid **integer**. If it's valid integer, program increments counter by one, writes new digit into the file (replaces previous one), closes the file and exits with status code 0 (normal exit). If its not valid immediately exists with status code 1 (abnormal exit).
+4. :vertical_traffic_light:**Golang**:vertical_traffic_light: In your `file_system` folder create file `file_system_task.go`. Within this file, implement program with the following behavior:
    - Upon run (with `go run file_system_task.go`, consider that your `file_system_task.go` should have `main` function to be executable), program checks whether or not file `counter.txt` exists.
-   - _If its not_. Program creates new file `counter.txt` with write/read/execute access to **all** users. Writes single digit `1` into the file, closes it and exists with status code 0 (normal exit).
-   - _If it does exist_. Program opens the file `counter.txt`, reads its content and checks whether or not all the content of the file is valid **integer**. If its valid integer, program increments counter by one, writes new digit into the file (replaces previous one), closes the file and exists with status code 0 (normal exit). If its not valid immediately exists with status code 1 (abnormal exit).
-1. In your `kottans-backend` repo `README.md`:
+   - _If its not_. Program creates new file `counter.txt` with write/read/execute access to **all** users. Writes single digit `1` into the file, closes it and exits with status code 0 (normal exit).
+   - _If it does exist_. Program opens the file `counter.txt`, reads its content and checks whether or not all the content of the file is valid **integer**. If it's valid integer, program increments counter by one, writes new digit into the file (replaces previous one), closes the file and exits with status code 0 (normal exit). If its not valid immediately exists with status code 1 (abnormal exit).
+5. :vertical_traffic_light:**Python**:vertical_traffic_light: In your `file_system` folder create file `file_system_task.py`. Within this file, implement program with the following behavior:
+   - Upon run (with `python3 file_system_task.py`), program checks whether or not file `counter.txt` exists.
+   - _If its not_. Program creates new file `counter.txt` with write/read/execute access to **all** users. Writes single digit `1` into the file, closes it and exits with status code 0 (normal exit).
+   - _If it does exist_. Program opens the file `counter.txt`, reads its content and checks whether or not all the content of the file is valid **integer**. If it's valid integer, program increments counter by one, writes new digit into the file (replaces previous one), closes the file and exits with status code 0 (normal exit). If its not valid immediately exists with status code 1 (abnormal exit).
+6. In your `kottans-backend` repo `README.md`:
    - add header `## File System`
    - embed the links to your `secret.txt` file and `file_system_task` source code file.
-1. You did lot already! If you honestly finished all the previous steps then go ahead
+7. You did lot already! If you honestly finished all the previous steps then go ahead
    and share it with others –
    post a message in [course channel](https://t.me/joinchat/Dqrdixe1c2K9bXUFBzNWtg):
    `File System — #done` and add the link to your repo. **This step is important, as it helps mentors to track your progress!**
@@ -44,6 +48,7 @@ notions of file descriptors, users / groups access permissions, special files et
 1. :vertical_traffic_light:**Node.js**:vertical_traffic_light: Node.js docs on `fs` [module](https://nodejs.org/api/fs.html)
 2. :vertical_traffic_light:**Golang**:vertical_traffic_light: Reading files in various use cases. [Golang tutorial series. No. 35](https://golangbot.com/read-files/).
 3. :vertical_traffic_light:**Node.js**:vertical_traffic_light: [Руководство по Node.js, часть 9: работа с файловой системой](https://habr.com/ru/company/ruvds/blog/424969/)
+4. :vertical_traffic_light:**Python**:vertical_traffic_light: Awesome `pathlib` [package](https://docs.python.org/3/library/pathlib.html)
 
 ## Done?
 
