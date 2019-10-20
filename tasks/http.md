@@ -73,6 +73,8 @@ Add answers to the following questions to your repository:
 
 Choose http verbs for every piece of functionality. If applicable, describe also the way you would provide data to the request (vie query params, in request body etc.). If applicable, describe the response of the server. Explain your choice.
 
+You did lot already! If you honestly finished all the previous steps then go ahead and share it with others – post a message in course channel: Http & Https — #done (or TCP. UDP. Network — #done if you are p2p course student) and add the link to your repo. This step is important, as it helps mentors to track your progress! When complete do the following:
+
 ## Extra Materials
 
 1. Reading: ["HTTPS In the Real World"](https://robertheaton.com/2018/11/28/https-in-the-real-world/)
