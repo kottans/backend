@@ -73,6 +73,7 @@ When you finish this task you can proceed to the next one.
 - :vertical_traffic_light:**Node.js**:vertical_traffic_light: [Node.js Garbage Collection Explained](https://blog.risingstack.com/node-js-at-scale-node-js-garbage-collection/)
 - :vertical_traffic_light:**Golang**:vertical_traffic_light: [Debugging: Simple Memory Leaks in Go](https://medium.com/dm03514-tech-blog/sre-debugging-simple-memory-leaks-in-go-e0a9e6d63d4d)
 - :vertical_traffic_light:**Golang**:vertical_traffic_light: [Avoiding Memory Leak in Golang API](https://hackernoon.com/avoiding-memory-leak-in-golang-api-1843ef45fca8)
+- :vertical_traffic_light:**Golang**:vertical_traffic_light: [Как устроен garbage collector в Go 1.9](https://www.youtube.com/watch?v=CX4GSErFenI)
 
 ## Done?
 
