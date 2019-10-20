@@ -9,7 +9,8 @@ Please complete the courses, tutorials and tasks listed below:
 ### Theory
 
 1. As any young gopher we start by passing "[Tour of Go](https://tour.golang.org)"
-1. Finish following sections at [EXL skills](https://exlskills.com/learn-en/courses/aap-learn-go-golang--learn_golang_asap/aap-learn--asapgo/essentials-of-go-TnpZfBokCads/functions-axGVThWYPfsy): INTRODUCTION, ESSENTIALS OF GO, CORE DATATYPES, BEYOND THE BASICS, ADVANCED DATATYPES
+1. Go through 1-7 chapter at [Golangbootcamp](http://www.golangbootcamp.com/book). Check your knowledge with exercizes at the end of 3,4,5,7 chapters.
+1. Read Introduction, Formatting, Commentary, Names, Semicolons, Control structures, Functions and Data chapters from [Effective Go](https://golang.org/doc/effective_go.html) article written by go language developers.
 1. Read following important articles:
 
 [Learn Go Variables](https://blog.learngoprogramming.com/learn-go-lang-variables-visual-tutorial-and-ebook-9a061d29babe)
@@ -40,8 +41,8 @@ Please complete the courses, tutorials and tasks listed below:
 
 ### Practical task
 
-1. In your `kottans-backend` folder create folder called `roman-digits`.
-1. In `roman-digits` folder create file called `main.go`.
+1. In your `kottans-backend` folder create folder called `digits`.
+1. In `digits` folder create file called `main.go`.
 1. Given following string:
 
 ```go
@@ -151,18 +152,41 @@ In `main.go` create write a program that satisfy following [user stories](https:
 - Note, that asterisk borders are mandatory
 - As the user, I can see error message in my terminal if my input is not valid (in case if given more than 1 argument or if 1 argument is not `uint` value).
 
-4. Useful links
+4. _Optional story_. Add possibily to set custom pixel symbol for your ASCII art via additional command line argument `symbol`. For instance:
+
+`go run main.go -symbol @ 1234567890`
+
+Will output:
+
+```go
+***********************************************************
+  @    @@@   @@@     @  @@@@@  @@@  @@@@@  @@@   @@@   @@@
+@ @   @   @ @   @   @@  @     @   @     @ @   @ @   @ @   @
+  @       @     @  @ @  @     @         @ @   @ @   @ @   @
+  @      @    @@  @  @  @@@@  @@@@     @   @@@   @@@@ @   @
+  @     @       @ @@@@@     @ @   @   @   @   @     @ @   @
+  @    @    @   @    @  @   @ @   @  @    @   @ @   @ @   @
+@@@@@ @@@@@  @@@     @   @@@   @@@   @     @@@   @@@   @@@
+***********************************************************
+```
+
+5. Useful links
 
 - [Strings cheatsheet](https://yourbasic.org/golang/string-functions-reference-cheat-sheet/)
 - [Os Args Example](https://gobyexample.com/command-line-arguments)
 
-5. In your `kottans-backend` repo `README.md`:
+6. In your `kottans-backend` repo `README.md`:
    - add header `## Go basics 1`
    - embed the link to your `main.go` source code file.
-6. If you honestly finished all the previous steps then go ahead
+
+##### Code Submission
+
+Save your program in a file. Follow instructions in [this repo](https://github.com/kottans/golang-2019-homeworks) to submit your code.
+
+7. You did lot already! If you honestly finished all the previous steps then go ahead
    and share it with others –
    post a message in [course channel](https://t.me/joinchat/Dqrdixe1c2K9bXUFBzNWtg):
-   `Go basics 1 — #done` and add the link to your repo. **This step is important, as it helps mentors to track your progress!**
+   `Go Basics 1 — #done` and add the link to your repo. **This step is important, as it helps mentors to track your progress!**
 
 ## Extra materials
 
