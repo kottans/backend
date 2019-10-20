@@ -46,7 +46,7 @@ Now, try the request with correct credentials. By the way, the authentication sc
 curl --user "USERNAME:PASSWORD" https://api.github.com/gists/starred
 ```
 
-You can also try to add your user name only. 
+You can also try to add your user name only.
 ```bash
 curl --user "USERNAME" https://api.github.com/gists/starred
 ```
@@ -63,7 +63,7 @@ Write down all your requests (replace sensitive information like password with "
 Add answers to the following questions to your repository:
 1. Name at least three possible negative consequences of not using https.
 1. Explain the main idea behind public key cryptography in few sentences
-1. You are creating and application for pet clinic. You need to implement the following functionality:
+1. You are creating an application for pet clinic. You need to implement the following functionality:
 - add new pet (including name, age, breed, owner's name, medical history)
 - search pet by name
 - change name of an existing pet
