@@ -56,7 +56,7 @@ Additional tasks:
 - list repositories of "Kottans" organization. For this task you need to explore GitHub API documentation: https://developer.github.com/v3/guides/getting-started/#repositories
 - Create new issue in your repository
 
-Write down all your resuests (replace sensitive information like password with "*" symbols)in the repository.
+Write down all your requests (replace sensitive information like password with "*" symbols)in the repository.
 
 ## Questions
 
