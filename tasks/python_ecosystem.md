@@ -5,17 +5,23 @@
 # Python Runtime and Ecosystem
 
 ## Important runtime things
- - GIL:
-   - [GIL on the official documentation](https://docs.python.org/3/glossary.html#term-global-interpreter-lock)
-   - [What is the Python Global Interpreter Lock (GIL)?](https://realpython.com/python-gil/)
- - asyncio
-   - [the official documentation](https://docs.python.org/3/library/asyncio.html)
-   - [AsyncIO for the Working Python Developer](https://medium.com/hackernoon/asyncio-for-the-working-python-developer-5c468e6e2e8e)
-   - [aio-libs - the set of asyncio-based libraries built with high quality](https://github.com/aio-libs)
+
+- GIL:
+  - [GIL on the official documentation](https://docs.python.org/3/glossary.html#term-global-interpreter-lock)
+  - [What is the Python Global Interpreter Lock (GIL)?](https://realpython.com/python-gil/)
+- asyncio
+  - [the official documentation](https://docs.python.org/3/library/asyncio.html)
+  - [AsyncIO for the Working Python Developer](https://medium.com/hackernoon/asyncio-for-the-working-python-developer-5c468e6e2e8e)
+  - [aio-libs - the set of asyncio-based libraries built with high quality](https://github.com/aio-libs)
 
 ## Ecosystem
- - [Awesome python](https://github.com/vinta/awesome-python)
- - [Awesome asyncio](https://github.com/timofurrer/awesome-asyncio)
+
+- [Awesome python](https://github.com/vinta/awesome-python)
+- [Awesome asyncio](https://github.com/timofurrer/awesome-asyncio)
+
+## Extra materials
+
+1. [Async IO on Linux: select, poll, and epoll](https://jvns.ca/blog/2017/06/03/async-io-on-linux--select--poll--and-epoll/)
 
 ## Done?
 

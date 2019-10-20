@@ -64,8 +64,9 @@
 
    - Why `nil` check is not working ? How would we fix that ?
 
-### Extra materials
+## Extra materials
 
+1. [Async IO on Linux: select, poll, and epoll](https://jvns.ca/blog/2017/06/03/async-io-on-linux--select--poll--and-epoll/)
 1. [Go: the Good, the Bad and the Ugly](https://bluxte.net/musings/2018/04/10/go-good-bad-ugly/)
 1. [Golang Internals Resources](https://github.com/emluque/golang-internals-resources)
 1. [Hacking Go's internals by Bouke van der Bijl](https://www.youtube.com/watch?v=mYqhBYdqCyg)

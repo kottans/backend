@@ -4,19 +4,23 @@
 
 # NodeJS Runtime and Ecosystem
 
-
 1.  [NodeSchool](https://nodeschool.io/) workshops  
-Please complete the following workshops: 
+    Please complete the following workshops:
+
 - [learnyounode](https://github.com/workshopper/learnyounode)
 - [What exactly is Node.js?](https://medium.freecodecamp.org/what-exactly-is-node-js-ae36e97449f5)
 - [Franziska Hinkelmann: JavaScript engines - how do they even?](https://youtu.be/p-iiEDtpy6I)(Video)
 
 Get acquainted with NodeJS documentation:
-- Go to nodejs.org and skim through the chapters. 
+
+- Go to nodejs.org and skim through the chapters.
 - Find and read documentation about `require` and `module` in NodeJS
 - Find and read `EventEmitter` class documentation
 - Find command-line flag to enable ES6 modules support
 
+## Extra materials
+
+1. [Async IO on Linux: select, poll, and epoll](https://jvns.ca/blog/2017/06/03/async-io-on-linux--select--poll--and-epoll/)
 
 ## Done?
 
