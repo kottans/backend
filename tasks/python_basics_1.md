@@ -28,7 +28,6 @@ Submission:
 1. In your `kottans-backend` repo `README.md`
    - add header `## Python Basics 1`
    - add link to your HackerRank profile (**profile needs to be public**)
-1. In your `kottans-backend` repo add folder **`python_basics_1`** and store your solution for different tasks.
 2. In this step your goal is to reach at least 3 stars(Silver) badge and add it to your profile, it`s only 110 points.
 
 3. If you honestly finished all the previous steps then go ahead and share it with others – post a message in [course channel](https://t.me/joinchat/Dqrdixe1c2K9bXUFBzNWtg):
