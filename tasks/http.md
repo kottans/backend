@@ -7,9 +7,9 @@
 
 1. Reading: [HTTP: The Protocol Every Web Developer Must Know - Part 1](https://code.tutsplus.com/tutorials/http-the-protocol-every-web-developer-must-know-part-1--net-31177)
 1. Reading: [HTTP: The Protocol Every Web Developer Must Know - Part 2](https://code.tutsplus.com/tutorials/http-the-protocol-every-web-developer-must-know-part-2--net-31155)
-1. Tutorial: ["How HTTP Works"](https://howhttps.works/)
+1. Tutorial: ["How HTTPS Works"](https://howhttps.works/)
 1. Reading: ["Public-key Cryptography for Non-geeks"](https://blog.vrypan.net/2013/08/28/public-key-cryptography-for-non-geeks/)
-1. Reading: ["How HTTP Actually Works"](https://robertheaton.com/2014/03/27/how-does-https-actually-work/)
+1. Reading: ["How HTTPS Actually Works"](https://robertheaton.com/2014/03/27/how-does-https-actually-work/)
 
 
 ## Practice
