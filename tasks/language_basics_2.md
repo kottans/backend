@@ -4,19 +4,29 @@
 
 # Weather APP
 
-**Create CLI-program to read weather forecast in your terminal.**  
+**Create CLI-program to read weather forecast in your terminal.**
+
 As a user, I can provide location (city name) and required forecast period (accepted values: week forecast or day forecast) and see weather forecast in my terminal. If the city I have provided is not found, the program prints corresponding message and exits.
+
 All cities I have entered will be stored permanently to file. If I start the program without providing any location, last successful query will be repeated.
 
-Use Openweather API for requests https://openweathermap.org/api.
+Also, in addition to mentioned above, as a user, I would like to:
+- enter the name of a city and get the forecast for it;
+- see forecast for some period, not only for today. As example, for tomorrow, week, two weeks, etc;
+- choose units — Celsius or Fahrenheit;
+- have a list of favorite cities. By selecting favorite city from the list, I want to see forecast in it;
+- have a list of recently viewed cities;
+- have a possibility to search not only by city name, but also by latitude and longitude.
 
-City and forecast range should be provided as command-line arguments:  
+**Use Openweather API for requests https://openweathermap.org/api**
+
+City and forecast range should be provided as command-line arguments:
 `-l`, `--location` for "location": enter city name. Optional. Default value - last successful location name followed by successful query.  
 `-r` and `--range` for "range": supported values: “week” and “day”. Optional. Default value “day"
 
 When called without arguments, the app gets weather for successful location. If no location was chosen, textual message “Please enter the location” will be printed.
 
-Example:
+**Examples:**
 
 ```bash
 my-weather-app --l=London --r=week
