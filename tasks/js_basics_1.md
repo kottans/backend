@@ -16,7 +16,7 @@ If you need to catch up, you can use the following materials for self-study: [Ja
 
 ## Task
 
-In this task you will get familiar with some features of NodeJS which you may have never seen in frontend development. Also you will take a closer look a JavaScript functions. Please complete the following workshops from [NodeSchool](https://nodeschool.io/):
+In this task you will get familiar with some features of NodeJS which you may have never seen in frontend development. Also you will take a closer look at JavaScript functions. Please complete the following workshops from [NodeSchool](https://nodeschool.io/):
 
 - [learnyounode](https://github.com/workshopper/learnyounode)
 - [functional-javascript-workshop](https://github.com/timoxley/functional-javascript-workshop)
