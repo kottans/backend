@@ -4,7 +4,7 @@
 
 # TCP. UDP. Network
 
-1. [Internet 101](https://www.khanacademy.org/computing/computer-science/internet-intro)
+1. [Internet 101](https://www.khanacademy.org/partner-content/code-org/computers-and-the-internet/computers-and-the-internet/internet-works/v/what-is-the-internet)
 1. [Networking for Web Developers](https://www.udacity.com/course/networking-for-web-developers--ud256)
 1. [How DNS Works](https://howdns.works/)
 1. :vertical_traffic_light:**Node.js**:vertical_traffic_light:[TCP client in Node.js](https://riptutorial.com/node-js/example/22406/a-simple-tcp-client):vertical_traffic_light:**Node.js**:vertical_traffic_light:
