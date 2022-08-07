@@ -3,7 +3,7 @@
 [![Awesome][icon-awesome]][awesome]
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-# Backend Course
+# Backend Course ***UNDER CONSTRUCTION!***
 
 The course contains basics of backend development: fundamentals of NodeJS or Golang and backend frameworks as well as necessary computer science basics, network and protocols, database fundamentals etc.
 
