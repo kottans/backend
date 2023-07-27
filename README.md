@@ -1,5 +1,4 @@
 [![MIT Licensed][icon-mit]][license]
-[![Ideas and useful links][icon-ideas]][ideas]
 [![Awesome][icon-awesome]][awesome]
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -128,3 +127,6 @@ like that (and we’ll never stop).
 [node]: ./img/node.png
 [go]: ./img/go.png
 [python]: ./img/python.png
+
+
+[![Ideas and useful links][icon-ideas]][ideas]
